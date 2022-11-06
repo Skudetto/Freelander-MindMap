@@ -1,0 +1,813 @@
+@startmindmap
+!theme vibrant
+
+<style>
+
+node {
+    Padding 12
+    Margin 3
+    LineColor green
+    LineThickness 3.0
+}
+
+rootNode {
+    LineStyle 8.0;3.0
+    LineColor green
+    BackgroundColor lightgreen
+    LineThickness 3.0
+    RoundCorner 0
+    Shadowing 5
+}
+
+leafNode {
+    LineStyle 1
+    LineColor red
+    LineThickness 1.0
+    RoundCorner 20
+    Padding 3
+}
+
+arrow {
+    LineStyle 3
+    LineThickness 1
+    LineColor green
+}
+</style>
+
+
+caption (c) Вот так вот, ребяты
+title Большая карта Фриловода [LR Freelander Mind Map]
+
+header
+v.0.5
+endheader
+
+
+
+
+*:Land Rover 
+Freelander 1
+;
+
+** Информация о Freelander
+*** Форумы 
+****_ [[https://lrfreelander.ru/ LRFreelander.ru (LR Freelander club (Основан в 2013 г. Более 7000 учатсников]]
+****_ [[https://lrfreelander.spybb.ru/ lrfreelander.spybb.ru Land Rover эксплуатация и ремонт]]
+****_ [[http://lr-club.com/index.php?showforum=83 LRclub.ru]]
+****_ [[https://land-rover-forum.ru/ land-rover-forum.ru Lan Rover Форум Клуб]]
+*** Каналы
+*** Сайты
+*** Группы
+**** VK
+*****_ [[https://vk.com/club114145226 Клуб любителей Land Rover Freelander 1 (Основан в 2017 г. Более 1800 участников)]]
+*****_ [[https://vk.com/club25363067 LAND ROVER FREELANDER CLUB (Более 700 участников)]]
+
+
+** Двигатель 1.8
+*** Общие сведения
+****_ Тип
+*****_ 1,8 л, бензиновый, 16-клапанный, 2 верхних распределительных вала
+****_ Расположение цилиндров
+*****_ 4 цилиндра, расположенные в ряд; нумерация цилиндров от передней части двигателя
+****_ Диаметр цилиндра
+*****_ 80,00 мм
+*****_ 3,150 дюйма
+****_ Ход поршня
+*****_ 89,30 мм
+*****_ 3,516 дюйма
+****_ Рабочий объем
+*****_ 1796 см3
+*****_ 109,59 дюймов3
+****_ Порядок работы
+*****_ 1-3-4-2
+****_ Степень сжатия
+*****_ 10,5 :1 ± 0,5 :1
+****_ Направление вращения
+*****_ По часовой стрелке, если смотреть с передней части двигателя
+****_ Максимальная мощность
+*****_ 	88 КВт (118 л.с.) при 5500 об/мин
+****_ Максимальный крутящий момент
+*****_ 165 Нм (223,7 фунт-футов) при 2750 об/мин
+****_ Частота вращения холостого хода
+*****_ 	775 ± 50 об/мин
+****_ Максимальная частота вращения вала
+*****_ 6750 об/мин
+****_ Масса(с полным оборудованием,заполненными системами смазки и охлаждения)
+*****_ 	108 кг
+**** Габаритные размеры
+*****_ Длина (номинальная)
+******_ 654 мм
+******_ 25,75 дюйма
+*****_ Ширина (номинальная)
+******_ 600 мм
+******_ 23,62 дюйма
+*****_ Высота (номинальная)
+******_ 615 мм
+******_ 24,21 дюйма
+
+***_ [[https://freelanderos.ru/man/1/power/engine_k1_8/engine_and_transmission.html <&book>Двигатель и коробка передач демонтаж]]
+
+
+*** Блок цилиндров
+**** Характеристики
+*****_ Материал
+******_ Алюминиевый сплав
+*****_ Тип гильз цилиндров
+******_ 	Мокрые, с нижней ребристой частью, устанавливаемые на скользящей посадке в нижнюю часть блока цилиндров
+*****_ Диаметр гильз цилиндров
+******_ Класс А с красной маркировкой
+*******_ 80 000 - 80,015 мм
+*******_ 3,1496 - 3,1501 дюймов
+******_ Класс В с синей маркировкой
+*******_ 80,016 - 80,030 мм
+*******_ 3,1502 - 3,1508 дюймов
+
+
+**** Головка блока цилиндров
+***** Характеристики
+******_ Материал
+*******_  Алюминиевый сплав
+******_ Высота головки блока
+*******_  Новая
+********_ 118,95 - 119,05 мм
+********_ 4,683 - 4,687 дюймов
+*******_  Припуск на обработку привалочной плоскости
+********_ 0,20 мм
+********_ 0,008 дюйма
+
+***** Прокладка ГБЦ
+****** Замена прокладки ГБЦ
+*******_ [[https://freelanderos.ru/man/1/power/engine_k1_8/cylinder_head_gasket.html <&book>Прокладка головки блока цилиндров (Фрилендер 1) Демонтаж,замена]]
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=1286 <&people>1. LRF Большая Подробная ветка о замене прокладки  ГБЦ]]
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=378 <&people>2. LRF Большая Подробная ветка о замене прокладки  ГБЦ В картинках]]
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=233 <&people>3. LRF Большая Подробная ветка Замена прокладки ГБЦ, перегрев, ремонт движка]]
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=5643 <&people>4. LRF Большая Подробная ветка Замена прокладки ГБЦ, перегрев, ремонт движка II]]
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=4407 <&people>5. LRF Большая Подробная ветка Замена прокладки ГБЦ том2]]
+****** Проблемы прокладки ГБЦ
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=1410 <&people>Проблема с обтяжкой прокладки ГБЦ]]
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=6358 <&people>После замены прокладки ГБЦ пошли газы в систему охлаждения]]
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=8218 <&people>После замены прокладки кипит]]
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=8570#p228966 <&person>После замены прокладки троит двигатель]]
+******[#FF4C5B] <&warning*2>
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=2361#p49842 <&person>Маслянный щуп в майонезе, уходит литр антифриза в день]]
+***** Клапанная крышка
+******_ [[https://freelanderos.ru/man/1/power/engine_k1_8/valve_cover_gasket.html <&book>Прокладка клапанной крышки]]
+***** Болты ГБЦ
+******[#lightgreen] <&list> WAM2293L
+******_ [[https://lrfreelander.ru/viewtopic.php?id=5050 <&people>Ветка: Окончательный момент затяжки болтов ГБЦ]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=7510 <&people>Ветка: Целесообразность замены болтов ГБЦ]]
+***** Распредвалы
+******_ [[https://freelanderos.ru/man/1/power/engine_k1_8/front_oil_seal_exhaust_camshaft.html <&book>Передний сальник выпускного распределительного вала]]
+******_ [[https://freelanderos.ru/man/1/power/engine_k1_8/rear_exhaust_camshaft_oil_seal.html <&book>Задний сальник выпускного распределительного вала]]
+******_ [[https://freelanderos.ru/man/1/power/engine_k1_8/rear_intake_camshaft_oil_seal.html <&book>Задний сальник впускного распределительного вала]]
+******_ [[https://freelanderos.ru/man/1/power/engine_k1_8/integral_cover_camshafts.html <&book>Интегральная крышка распредвалов: герметизация]]
+***** Маслосъемные колпачки
+******_ [[https://freelanderos.ru/man/1/power/engine_k1_8/stem_seal.html <&book>Маслосъёмные колпачки - снитие и установка]]
+**** Поршневая группа
+*****_ [[https://freelanderos.ru/man/1/power/piston_k1_8/removing_and_installing.html <&book>Снятие и установка поршневой группы]]
+**** Шатунные вкладыши
+*****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/replacing_connecting_rod_bearings.html <&book>Замена шатунных вкладышей]]
+
+**** Коленчатый вал
+*****_ Осевой зазор коленчатого вала
+******_ 0,10 - 0,25 мм (0,004 - 0,010 дюймов)
+******_ Допускается без замены	0,34 мм (0,013 дюйма)
+*****_ Коренная шейка
+******_ Диаметр коренной шейки
+*******_ 47,986 - 48,007 мм (1,8892 - 1,8900 дюймов)
+*******_ Максимальное отклонение от круглой формы	0,010 мм (0,0004 дюйма)
+******_ Допуск на диаметр коренной шейки
+*******_ - Класс 1	48 000 - 48,007 мм (1,8898 - 1,8900 дюймов)
+*******_ - Класс 2	47,993 - 48,000 мм (1,8895 - 1,8898 дюймов)
+*******_ - Класс 3	47,986 - 47,993 мм (1,8892 - 1,8895 дюймов)
+*****_ Шатунные шейки
+******_ Диаметр шатунных шеек коленчатого вала
+*******_ 47,986 - 48,007 мм (1,8892 - 1,8900 дюймов)
+*******_ - Максимальное отклонение от круглой формы	0,010 мм (0,0004 дюйма)
+******_ Допуск на диаметр шатунных шеек коленчатого вала
+*******_ - Класс А	48 000 - 48,007 мм (1,8898 - 1,8900 дюймов)
+*******_ - Класс В	47,993 - 48,000 мм (1,8895 - 1,8898 дюймов)
+*******_ - Класс С	47,986 - 47,993 мм (1,8892 - 1,8898 дюймов)
+*****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/crankshaft_pulley.html <&book>Шкив коленчатого вала]]
+*****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/front_crankshaft_oil_seal.html <&book>Передний сальник коленчатого вала]]
+*****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/rear_crankshaft_oil_seal.html <&book>Задний сальник коленчатого вала]]
+*****_ [[https://freelanderos.ru/man/1/power/piston_k1_8/front_crankshaft_seal.html <&book>Передний сальник коленвала]]
+*****_ [[https://freelanderos.ru/man/1/power/piston_k1_8/replacing_crankshaft_rear_oil_seal.html <&book>Замена заднего сальника коленчатого вала]]
+*****_ [[https://freelanderos.ru/man/1/power/piston_k1_8/crankshaft_and_main_bearings.html <&book>Коленчатый вал и коренные подшипники]]
+***** Коренные подшипники коленвала
+******_ Количество
+*******_ 5
+******_ Тип
+*******_ На стальной основе
+*******_ беговая поверхность из алюминия с оловом
+*******_ прорезь для масла в верхней части
+*******_ вкладыши крышки шатуна
+********_ гладкие
+******_ Зазор в подшипниках
+*******_ 0,02 - 0,05 мм
+*******_ 0,0008 - 0,0020 дюймов
+******_ Упорные шайбы
+*******_ Половинки на 3-й опоре коленчатого вала
+******_ Толщина половинок упорной шайбы
+*******_ 2,61 - 2,65 мм
+*******_ 0,1028 - 1,043 дюймов
+***** Подшипники шатунных шеек коленчатого вала
+******_ Зазор в подшипниках
+*******_ 0,021 - 0,049 мм
+*******_ 0,0008 - 0,0019 дюймов
+******_ Осевой люфт шатунного подшипника
+*******_ 0,10 - 0,25 мм
+*******_ 0,004 - 0,010 дюймов
+**** Маховик
+*****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/flywheel.html <&book>Маховик - снятие и установка]]
+
+
+*** Ремень ГРМ
+****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/timing_belt.html <&book>Ремень ГРМ - снятие и установка]]
+****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/upper_timing_cover.html <&book>Верхняя крышка привода ГРМ]]
+****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/back_cover_of_timing_belt.html <&book>Задняя крышка ремня ГРМ]]
+****_ [[https://lrfreelander.ru/viewtopic.php?id=166 <&people>Выбор ремня ГРМ от 97... 1,8 145-зуб]]
+**** Замена ремня ГРМ
+*****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/timing_belt.html <&book>Ремень ГРМ - снятие и установка]]
+*****_ [[https://www.youtube.com/watch?v=CM5oA2X03z8 <&video>Видео о замене ремня ГРМ]]
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=1 <&people>Большая подробная ветка о замене ремня ГРМ]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=1#p14226 <&person>Важно обратить внимание!]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=1&p=3#p119053 <&person>Самодельное приспособление для откручивания шкива коленвала]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=1&p=5#p211842 <&person>Фото правильной установки ремня ГРМ]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=8572#p229025 <&person>Порядок установки ремня ГРМ]]
+******_ [[https://s3.uploads.ru/t/ubxsg.jpg <&image>Автоматический и ручной ролики разные, взаимоНезаменяемые!]]
+******_ [[https://s3.uploads.ru/Sof9e.jpg <&image>Схема установки меток!]]
+
+
+*** Система смазки
+****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/oil_pump.html <&book>Масляный насос - снятие и установка]]
+****_ [[https://freelanderos.ru/man/1/power/piston_k1_8/bulkhead_oil_pump.html <&book>Переборка масляного насоса]]
+****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/sealing_of_oil_pan.html <&book>Герметизация масляного поддона]]
+****_ [[https://freelanderos.ru/man/1/power/piston_k1_8/pan.html <&book>Поддон - снятие и установка]]
+****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/oil_pressure_switch.html <&book>Контактный датчик давления масла]]
+****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/reducing_valve_lubrication_system.html <&book>Редукционный клапан системы смазки]]
+****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/oil_temperature_sensor.html <&book>Датчик температуры масла]]
+*** Гидрокомпенсаторы
+
+*** Управление двигателем
+**** Свечи зажигания
+***** Характеристики
+******_ Тип 
+*******_ NLP100290
+******_ Зазор
+*******_ 1,0 мм ± 0,05 мм
+*******_ 0,039 дюйма ± 0,002 дюйма
+*****_ [[https://freelanderos.ru/man/1/power/mems/spark_plug.html <&book>Свечи зажигания]]
+*****[#FF4C5B] <&warning*2>
+****** Чёрные свечи
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p219699 <&people>Троит на холостых, свечи чёрные]]
+**** Катушка зажигания
+***** Характеристики
+******_ Изготовитель
+*******_ Nippon Denso - NEC 100730
+******_ Тип
+*******_ 2 катушки с двойными обмотками высокого напряжения, с клеммой на верхней части, для 1-го и 4-го цилиндров и для 2-го и 3-го цилиндров
+******_ Сопротивление первичной обмотки (номинальное)
+*******_ 0,7 Ом
+******_ Сопротивление вторичной обмотки (номинальное)
+*******_ 10 Ом
+******_ Система впрыскивания топлива
+*******_ Топливная рампа без возврата топлива, распределенный впрыск с электронным управлением блоком ECM
+******_ Контроллер
+*******_ MEMS 3 бесконтактного зажигания, электронный, полностью программируемая система управления двигателем
+*****_ [[https://freelanderos.ru/man/1/power/mems/ignition_coil.html <&book>Катушка зажигания]]
+**** Распределитель зажигания (Трамблер)
+*****[#yellow] <&info>Запасные крышку трамблера и бегунок лучше всегда возить с собой!
+***** Кышка трамблера
+******[#lightgreen] <&list> NJD10010
+******[#FF4C5B] <&warning*2>
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p246287 <&people>Неисправность крышки трамблера]]
+***** Бегунок
+******[#lightgreen] <&list> NJD10003
+**** Блок управления двигателем (ECM)
+*****_ [[https://freelanderos.ru/man/1/power/mems/ecm.html <&book>Блок управления двигателем (ECM)]]
+**** Регулятор холостого хода (IAC)
+*****_ [[https://freelanderos.ru/man/1/power/mems/iac.html <&book>Регулятор холостого хода (IAC)]]
+**** Датчики
+***** Датчик температуры ОЖ
+******_ [[https://freelanderos.ru/man/1/power/mems/ect.html <&book>Датчики: датчик температуры охлаждающей жидкости (ECT)]]
+***** Датчик положения коленвала
+******_ [[https://freelanderos.ru/man/1/power/mems/ckp.html <&book>Датчики: датчик положения коленчатого вала (CKP)]]
+***** Датчик положения дроссельной заслонки
+******_ [[https://freelanderos.ru/man/1/power/mems/throttle_position_sensor.html <&book>Датчик положения дроссельной заслонки]]
+***** Датчик положения распредвала
+******_ [[https://freelanderos.ru/man/1/power/mems/cmp.html <&book>Датчики: датчик положения распределительного вала (CMP)]]
+***** Датчик педали газа
+******_ [[https://freelanderos.ru/man/1/power/mems/contact_pedal_position_sensor.html <&book>Контактный датчик положения педали]]
+***** Датчик абсолютного давления
+******_ [[https://freelanderos.ru/man/1/power/mems/map.html <&book>Датчик абсолютного давления во впускном коллекторе (MAP)]]
+***** Датчик положения педали акселлератора (датчик педали газа)
+******_ [[https://freelanderos.ru/man/1/chassis/brake/accelerator_pedal_position_sensor.html <&book>Датчик положения педали акселератора (лягушка)]]
+*** Опоры
+****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/bracket_right_engine_mount_assembly.html <&book>Кронштейн правой опоры двигателя в сборе]]
+****_ [[https://freelanderos.ru/man/1/power/engine_k1_8/right_hydro_engine.html <&book>Гидроопора двигателя правая]]
+
+*** Топливная система
+****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/depressurization_fuel_supply_system.html <&book>Сброс давления в системе подачи топлива]]
+****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/measurement_pressure_in_fuel_supply.html <&book>Измерение давления в системе подачи топлива]]
+****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/cable_throttle_control.html <&book>Трос управления дроссельной заслонкой - проверка и регулировка]]
+****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/air_filter.html <&book>Фильтр очистки воздуха]]
+****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/air_filter_element.html <&book>Фильтрующий элемент воздушного фильтра]]
+****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/inertia_switch_fuel_cut.html <&book>Инерционный выключатель отсечки топлива]]
+****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/front_oxygen_sensor.html <&book>Передний кислородный датчик]]
+****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/maf.html <&book>Датчик массового расхода воздуха (MAF)]]
+****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/fuel_pump_relay.html <&book>Реле топливного насоса]]
+****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/throttle_tube.html <&book>Дроссельный патрубок]]
+****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/rear_oxygen_sensor.html <&book>Задний кислородный датчик]]
+****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/switch_resume_mode_since_may.html <&book>Выключатель возобновления режима: с мая 2004 года]]
+****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/multifunction_switch.html <&book>Многофункциональный выключатель]]
+
+**** Форсунки
+***** Характеристики
+******_ Рабочее давление
+*******_ 3,5 бара
+*******_ 50,8 фунтов/дюйм2
+******_ Производительность топливного насоса
+*******_ 117 г/мин при давлении 3,0 бар
+*******_ 4,13 унций/мин при 43,5 фунт/дюйм2
+******_ Привод клапанов
+*******_ Саморегулирующимися гидравлическими толкателями малой массы, приводимыми непосредственно распредвалами
+******_ Выполняемые нормы по содержанию вредных веществ в отработавших газах
+*******_ ECD3
+*****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/nozzles.html <&book>Форсунки (комплект) - снятие и установка]]
+
+**** Топливный бак
+*****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/drain_fuel_from_tank.html <&book>Слив топлива из бака]]
+*****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/fuel_tank.html <&book>Топливный бак: кроме стран Североамериканского рынка]]
+*****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/fuel_tank_american_market.html <&book>Топливный бак: страны Североамериканского рынка]]
+*****_ [[https://freelanderos.ru/man/1/power/petrol_k1_8/filler_pipe.html <&book>Заливная труба - снятие и установка]]
+
+***** Топливный насос
+******_ [[https://www.freelanderos.ru/man/1/power/petrol_k1_8/electric_fuel_pump.html <&book>Электробензонасос - снятие и установка (Фрилендер 1)]]
+
+****** Мотор насоса
+*******[#yellow] <&info>Перед смертью обычно моторчик громко гудит
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=5 <&people>Форум: Большая подробная тема о ТН, замена мотора насоса на Бош от Ваза]]
+*******[#FF4C5B] <&warning*2>
+********_ [[https://lrfreelander.ru/viewtopic.php?id=15830 <&bug>Топливный насос работает постоянно (при включенном зажигании)]]
+*********_ [[http://freelander.spybb.ru/viewtopic.php?id=337#p15873 <&wrench>Некорректно работает дополнительная сигнализация]]
+*********_ [[http://freelander.spybb.ru/viewtopic.php?id=337#p15881 <&wrench>Глючит аварийный топливный датчик]]
+****** Топливный фильтр
+*******_ [[https://www.freelanderos.ru/man/1/power/petrol_k1_8/main_filter_cleaning_fuel.html <&book>Замена основного фильтра очистки топлива (Фрилендер 1)]]
+*******_ [[http://freelander.spybb.ru/viewtopic.php?id=9#p510 <&people>Замена фильтра тонкой очистки топлива (бензиновые двигатели)]]
+*******_ [[https://vk.com/topic-114145226_35264548 <&sun>Замена фильтра тонкой очистки топлива (бензиновые двигатели)]]
+
+****** Регулятор давления
+****** Датчик уровня топлива
+
+
+***[#FF4C5B] <&warning*2>
+**** Не заводится
+**** Плохо заводится
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p217873 <&bug>Заводится, дёргается, не развивает обороты]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p217898 <&person>Не работает датчик температуры]]
+*******_ Плохо работает бензонасос
+*******_ Плохо работает зажигание
+********_ Проблемы с крышкой трамблера
+********_ Проблемы с бегунком
+********_ Проблемы со свечами
+********_ Проблемы с высоковольтными проводами
+********_ Проблемы с катушкой (катушками)
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=5#p294 <&bug>Плохо заводится на холодную, на ходу при ускорении плохо набирает обороты]]
+******_ Неисправность бензонасоса
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p220937 <&bug>Пропадает тяга под нагрузкой]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p220937 <&person>Проблемы с МАП сенсором]]
+**** Троит
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p219699 <&people>Троит на холостых, свечи чёрные]]
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p246287 <&people>Заводится нормально, после прогрева троит]]
+****** см. Двигатель - Управление двигателем - Распределитель зажигания - Крышка трамблера - <&warning>
+
+
+
+
+
+
+** Навесное оборудование двигателя
+*** Стартер
+*** Генератор
+
+
+
+
+
+
+
+** Трансмиссия
+*** Автоматическая коробка
+****_ [[https://freelanderos.ru/man/1/power/automatic/replacing_hydraulic_fluid.html <&book>Замена рабочей жидкости в коробке]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/adjustment_cable_selector.html <&book>Регулировка троса селектора]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/selector_housing.html <&book>Корпус селектора - снятие и установка]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/handle_selector.html <&book>Рукоятка селектора - снятие и установка]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/cable_selector.html <&book>Трос селектора - снятие и установка]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/position_indicator_of_selector.html <&book>Указатель положения селектора: автомобили до мая 2003 года]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/position_indicator_of_selector_after_may_2004.html <&book>Указатель положения селектора: автомобили после мая 2004 года]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/switch_immobilizer.html <&book>Выключатель блокировки запуска двигателя]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/control_unit.html <&book>Блок управления (ECU)]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/gland_torque_converter.html <&book>Сальник гидротрансформатора]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/transmission_with_engine_kv6.html <&book>Коробка передач с двигателем KV6 (двигатель с коробкой сняты)]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/transmission_kv6.html <&book>Коробка передач: автомобили с двигателем KV6 - снятие и установка]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/transmission_td4.html <&book>Коробка передач: автомобиль с двигателем Td4 - снятие и установка]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/sealing_bottom_of_gearbox.html <&book>Герметизация днища коробки передач]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/ventilated_cooling_heat_exchanger_working_fluid_td4.html <&book>Обдуваемый теплообменник охлаждения рабочей жидкости: автомобили с двигателем Td4]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/heat_exchanger_cooling_working_fluid_td4.html <&book>Теплообменник охлаждения рабочей жидкости: автомобили с двигателем Td4]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/heat_exchanger_cooling_working_fluid_kv6.html <&book>Теплообменник охлаждения рабочей жидкости: автомобили с двигателем KV6]]
+****_ [[https://freelanderos.ru/man/1/power/automatic/hose_heat_exchanger_cooling_hydraulic_fluid.html <&book>Шланги теплообменника охлаждения рабочей жидкости]]
+
+
+*** Механическая коробка
+****_ [[https://freelanderos.ru/man/1/power/mechanical/changing_transmission_oil_in_pg1.html <&book>Замена трансмиссионного масла в коробке PG1]]
+****_ [[https://freelanderos.ru/man/1/power/mechanical/transmission_pg1.html <&book>Коробка передач PG1 - снятие и установка]]
+****_ [[https://freelanderos.ru/man/1/power/mechanical/gland_selector_shaft_pg1.html <&book>Сальник штока выбора передач PG1]]
+****_ [[https://freelanderos.ru/man/1/power/mechanical/reversing_light_switch_pg1.html <&book>Выключатель фонаря заднего хода PG1]]
+****_ [[https://freelanderos.ru/man/1/power/mechanical/contact_sensor_activate_first_gear_pg1.html <&book>Контактный датчик включения первой передачи PG1]]
+****_ [[https://freelanderos.ru/man/1/power/mechanical/changing_transmission_oil_in_getrag.html <&book>Замена трансмиссионного масла в коробке GETRAG]]
+****_ [[https://freelanderos.ru/man/1/power/mechanical/back_cover_getrag.html <&book>Задняя крышка GETRAG - снятие и установка]]
+****_ [[https://freelanderos.ru/man/1/power/mechanical/selection_mechanism_getrag.html <&book>Механизм выбора передач GETRAG: верхняя тяга и сферические шарниры]]
+****_ [[https://freelanderos.ru/man/1/power/mechanical/getrag_transmission.html <&book>Коробка передач GETRAG - снятие и установка]]
+****_ [[https://freelanderos.ru/man/1/power/mechanical/input_shaft_lip_seal_getrag.html <&book>Сальник первичного вала GETRAG]]
+****_ [[https://freelanderos.ru/man/1/power/mechanical/gland_selector_shaft_getrag.html <&book>Сальник штока выбора передач GETRAG]]
+****_ [[https://freelanderos.ru/man/1/power/mechanical/reversing_light_switch_getrag.html <&book>Выключатель фонарей заднего хода GETRAG]]
+****_ [[https://freelanderos.ru/man/1/power/mechanical/contact_sensor_activate_first_gear_getrag.html <&book>Контактный датчик включения первой передачи GETRAG]]
+
+
+
+*** Раздатка
+****[#lightgreen] <&list> TAG000230 IRD Free 4 cyl
+****[#lightgreen] <&list> TAG000220 IRD Free 6 cyl
+**** Manual
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/changing_transmission_oil.html <&book>Замена трансмиссионного масла в раздаточной коробке: кроме стран Североамериканского рынка]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/changing_transmission_oil_north_american.html <&book>Замена трансмиссионного масла в раздаточной коробке: страны Североамериканского рынка]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/models_with_engine_td4.html <&book>Раздаточная коробка: модели с двигателем Td4]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/models_with_engine_k1_8.html <&book>Раздаточная коробка: модели с двигателем K1.8]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/models_with_engine_kv6.html <&book>Раздаточная коробка: модели с двигателем KV6]]
+**** Сальники
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/oil_seal_drive_shaft_transfer_case.html <&book>Сальники ведущего вала раздаточной коробки]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/oil_seal_drive_shaft.html <&book>Сальник ведущего вала раздаточной коробки]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/gland_left_drive_shaft.html <&book>Сальниклевого приводного вала: модели с двигателем Td4 и KV6]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/gland_left_drive_shaft_k1_8.html <&book>Сальниклевого приводного вала: автомобили с двигателем K1.8]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/gland_right_drive_shaft.html <&book>Сальник правого приводного вала]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/oil_seal_rear_axle_drive_shaft_td4.html <&book>Сальник вала привода заднего моста: автомобили с двигателем Td4]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/oil_seal_rear_axle_drive_shaft_k1_8.html <&book>Сальник вала привода заднего моста: автомобили с двигателем K1.8]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/oil_seal_rear_axle_drive_shaft_kv6.html <&book>Сальник вала привода заднего моста KV6, кроме стран Североамериканского рынка]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/oil_seal_rear_axle_drive_shaft_kv6_north_american.html <&book>Сальник вала привода заднего моста KV6, для стран Североамериканского рынка]]
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=1712 <&people>Форум: Сальники раздатки]]
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=383#p12379 <&person>Подборка аналогов сальников, коды и размерность]]
+*****_ [[https://freelanderos.ru/tech/sal.png <&image>Cхема иномера сальников]]
+*****_ [[https://freelanderos.ru/tech/sal2.jpg <&image>Cхема2 иномера сальников]]
+*****_ [[https://freelanderos.ru/tech/sal3.jpg <&image>Cхема3 иномера сальников]]
+**** Подшибники
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=383#p12792 <&person>KVK:Подборка кодов оригинальных подшипников]]
+*****_ [[https://freelanderos.ru/tech/pod.jpg <&image>Схема и номера подшипников]]
+**** Задняя крышка картера
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/laying_back_cover_transfer_case_td4.html <&book>Прокладка задней крышки картера раздаточной коробки: модели с двигателем Td4]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/laying_back_cover_transfer_case_kv6.html <&book>Прокладка задней крышки картера раздаточной коробки: модели с двигателем KV6]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/laying_back_cover_transfer_case_k1.8.html <&book>Прокладка задней крышки картера раздаточной коробки: модели с двигателем K1.8","https]]
+**** Хвостовик
+**** Ведущий вал
+**** Приводной вал
+**** Привод заднего моста
+**** Масло
+*****[#lightgreen] <&list> TEXACO S75w90
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=7353 <&people>Какое масло залить в раздатку]]
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=8475 <&people>Течь масла]]
+**** Пробка заливного отверстия
+*****[#lightgreen] <&list> trl100060
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=875 <&people>Пробка заливного отверстия (как открутить)]]
+**** Радиатор
+*****[#lightgreen] <&list> TAR100010 (4 цилиндра)
+*****[#lightgreen] <&list> 8510256 (V6 K series)
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=383&p=8#p60329 <&person>TOY:Совет: способ демонтажа радиатора (нагрев феном)]]
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=383&p=12#p94304 <&person>Фотоотчет: способ демонтажа радиатора (нагрев жидкостью)]]
+*****_ [[http://lrfreelander.ru/viewtopic.php?id=4092&p=4#p115086 <&person>Совет: способ демонтажа радиатора (компрессор+фуфайка)]]
+**** Ремкомплект раздатки 
+*****[#lightgreen] <&list> TAG000230KIT
+***** Шайбы дифференциала
+******[#lightgreen] <&list> IRD0011
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=341 <&people>Форум: Наборы для ремонта раздатки и редуктора]]
+****_ [[https://freelanderos.ru/tech/ird.jpg <&image>Cхема: раздатки]]
+*****[#lightgreen] <&list> 5: TRX100170
+*****[#lightgreen] <&list> 7: TYX100490
+*****[#lightgreen] <&list> 8: UNG100060L
+*****[#lightgreen] <&list> 38: KOYO 32008JR
+******_ Размеры 40.987х67.975х17.5
+******_ Диаметр посадочного места 41,05мм
+******[#lightgreen] <&list> Timken LM300849/811
+******[#lightgreen] <&list> NSK LM 300849 RG3/811RG
+*****[#lightgreen] <&list> 40: KOYO LM300849\11
+******_ Размеры 40,000х68,000х19,000
+******_ Диаметр посадочного места 40,03 мм.
+******[#lightgreen] <&list> Timken 32008 XM (XAA32008X)
+******[#lightgreen] <&list> NSK HR32008 XJ
+*****_ [[https://freelanderos.ru/tech/pod.jpg <&image>Схема и номера подшипников]]
+****_ [[https://lrfreelander.ru/viewtopic.php?id=383 <&people>Форум: Разборка и ремонт раздатки]]
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=383&p=3#p27283 <&video>Видео: сборка раздатки]]
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=383&p=12#p92052 <&video>Видео: снятие раздатки]]
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=4092#p106288 <&person>Номера шайб больших и малых сателит]]
+****_ [[https://lrfreelander.ru/viewtopic.php?id=7 <&people>Форум: Раздатка(IRD), карданы, вискомуфта]]
+****_ [[http://freelander.spybb.ru/viewtopic.php?id=4261 <&info>Возможно ли сделать раздатку с понижающим рядом]] 
+*****_ Невозможно в принципе
+*** Сцепление
+****_ [[https://freelanderos.ru/man/1/power/clutch/clutch_assembly_disc_td4.html <&book>Сцепление в сборе/ведомый диск и подшипник выключения сцепления (выжимной) - Td4]]
+****_ [[https://freelanderos.ru/man/1/power/clutch/clutch_assembly_disc_k1_8.html <&book>Сцепление в сборе/ведомый диск и подшипник выключения сцепления (выжимной) - K1.8]]
+**** Ведомый диск
+**** Выжимной подшипник
+**** Гидропривод
+*****_ [[https://freelanderos.ru/man/1/power/clutch/hydraulic_clutch_hand_drive_cars_k1_8.html <&book>Гидравлический привод сцепления: автомобили с правосторонним управлением - K1.8]]
+*****_ [[https://freelanderos.ru/man/1/power/clutch/master_cylinder_left_hand_drive_cars_td4.html <&book>Главный цилиндр: автомобили с левосторонним управлением - Td4]]
+*****_ [[https://freelanderos.ru/man/1/power/clutch/master_cylinder_hand_drive_car_td4.html <&book>Главный цилиндр: автомобили с правосторонним управлением -Td4]]
+
+*** Карданный вал
+****_ [[https://freelanderos.ru/man/1/chassis/shafts/cardan_shaft_assembly.html <&book>Карданный вал в сборе]]
+****_ [[https://freelanderos.ru/man/1/chassis/shafts/bulkhead_front_and_rear_driveshafts.html <&book>Переборка переднего и заднего карданных валов]]
+**** Передний кардан
+*****_ [[https://freelanderos.ru/man/1/chassis/shafts/cardan_shaft_front.html <&book>Карданный вал передний]]
+*****_ [[https://freelanderos.ru/man/1/chassis/shafts/cover_the_sliding_yoke_front_cardan_shaft.html <&book>Чехол скользящей вилки карданного шарнира переднего карданного вала]]
+**** Задний кардан
+*****_ [[https://freelanderos.ru/man/1/chassis/shafts/cardan_shaft_rear.html <&book>Карданный вал задний]]
+**** Вискомуфта
+*****_ [[https://freelanderos.ru/man/1/chassis/shafts/viscous_clutch_assembly.html <&book>Вязкостная муфта в сборе]]
+*****_ [[https://freelanderos.ru/man/1/chassis/shafts/intermediate_support_front.html <&book>Промежуточная опора передняя]]
+***** [[https://lrfreelander.ru/viewtopic.php?id=7#p1365 <&people>Совет: способ проверки вискомуфты (вывешивсание и прокрутка)]]
+***** [[https://lrfreelander.ru/viewtopic.php?id=7&p=3#p15526 <&people>Совет: способ проверки вискомуфты (троганье задним ходом с вывернутыми колесами)]]
+***[#FF4C5B] <&warning*2>
+****_ <&bug>Треск и щелчки при движении задним ходом с вывернутыми колесами
+*****_ Неисправность раздатки, возможно заклинина вискомуфта
+****_ [[https://lrfreelander.ru/viewtopic.php?id=8475 <&bug>Работает только задний привод]]
+****_ [[https://lrfreelander.ru/viewtopic.php?id=826 <&bug>Давит масло из раздатки]]
+****_ [[https://lrfreelander.ru/viewtopic.php?id=7696 <&bug>Удары при трогании с места]]
+****_ [[https://lrfreelander.ru/viewtopic.php?id=4520 <&bug>Стук и удар по кузову при резком старте]]
+
+
+
+
+** Выпускная система
+** Система охлаждения и вентиляции
+
+
+** Шасси
+*** Рулевое управление
+**** Рулевое колесо
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/steering_wheel.html <&book>Рулевое колесо - снятие и установка]]
+**** Рулевая колонка
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/steering_column_assembly.html <&book>Рулевая колонка в сборе - внутренняя и наружная части]]
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/column_cover.html <&book>Кожух рулевой колонки]]
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/mechanism_locks_steering_wheel.html <&book>Механизм блокировки рулевого колеса и замок зажигания]]
+******_ [[https://freelanderos.ru/man/1/chassis/steering/cable_lock_ignition.html <&book>Трос блокировки замка зажигания]]
+*******_ [[https://freelanderos.ru/man/1/chassis/steering/adjustment_of_cable_locking_mechanism_ignition.html <&book>Регулировка троса механизма блокировки замка зажигания]]
+**** Рулевой механизм
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/mechanism.html <&book>Рулевой механизм - снятие и установка]]
+******_ [[https://freelanderos.ru/man/1/chassis/steering/protective_case_steering.html <&book>Защитный чехол рулевого механизма]]
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/spherical_rod_end.html <&book>Шаровой шарнир наконечника рулевой тяги]]
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/tie_rod.html <&book>Рулевая тяга - снятие и установка]]
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/adjustment_of_corners_of_forward_wheels.html <&book>Проверка и регулировка углов установки передних колес]]
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/adjustment_of_corners_of_back_wheels.html <&book>Проверка и регулировка углов установки задних колес]]
+
+**** Гидроусилитель
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/check_pressure_in_hydraulic_booster.html <&book>Проверка давления в системе рулевого гидроусилителя]]
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/cooler_working_fluid_of_hydraulic_booster_td4.html <&book>Охладитель рабочей жидкости рулевого гидроусилителя (Td4 или K1.8)]]
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/cooler_working_fluid_of_hydraulic_booster_kv6.html <&book>Охладитель рабочей жидкости рулевого гидроусилителя (KV6)]]
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/drive_belt_k1_8.html <&book>Приводной ремень (для моделей с двигателем K1.8)]]
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/pumps_hydraulic_booster_kv6.html <&book>Насос рулевого гидроусилителя (модели с двигателем KV6)]]
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/pumps_hydraulic_booster_k1_8.html <&book>Насос рулевого гидроусилителя (модели с двигателем K1.8)]]
+*****_ [[https://freelanderos.ru/man/1/chassis/steering/pumps_hydraulic_booster_td4.html <&book>Насос рулевого гидроусилителя (модели с двигателем Td4)]]
+*** Приводные валы
+**** Передние приводные валы
+*****_ [[https://freelanderos.ru/man/1/chassis/shafts/left_shaft_with_external_and_internal_hinges.html <&book>Левый вал с внешним и внутренним шарнирами]]
+*****_ [[https://freelanderos.ru/man/1/chassis/shafts/right_shaft_with_external_and_internal_hinges.html <&book>Правый вал с внешним и внутренним шарнирами]]
+*****_ [[https://freelanderos.ru/man/1/chassis/shafts/protective_case_outside_front.html <&book>Защитный чехол - шарнир равных угловых скоростей - наружный - передний]]
+*****_ [[https://freelanderos.ru/man/1/chassis/shafts/protective_case_outside_left_front.html <&book>Защитный чехол - шарнир равных угловых скоростей - наружный - левый - передний]]
+*****_ [[https://freelanderos.ru/man/1/chassis/shafts/protective_case_internal_cv_joint.html <&book>Защитный чехол - внутренний шарнир равных угловых скоростей]]
+**** Задние приводные валы
+*****_ [[https://freelanderos.ru/man/1/chassis/shafts/rear_shaft_with_external_and_internal_hinges.html <&book>Задний вал с внешним и внутренним шарнирами]]
+*****_ [[https://freelanderos.ru/man/1/chassis/shafts/cv_joint_outside_rear.html <&book>Шарнир равных угловых скоростей - наружный - задний]]
+******_ [[https://freelanderos.ru/man/1/chassis/shafts/protective_case_outer_rear_hinge.html <&book>Защитный чехол наружного заднего шарнира]]
+*****_ [[https://freelanderos.ru/man/1/chassis/shafts/protective_case_inner_cv_joint_rear.html <&book>Защитный чехол - внутренний шарнир равных угловых скоростей - задний]]
+
+
+*** Задний мост и главная передача
+****_ [[https://freelanderos.ru/man/1/chassis/rear_axle/differential_assembly.html <&book>Дифференциал в сборе]]
+****_ [[https://freelanderos.ru/man/1/chassis/rear_axle/back_cover_of_differential.html <&book>Задняя крышка дифференциала]]
+****_ [[https://freelanderos.ru/man/1/chassis/rear_axle/bushing_front_support_differential_housing.html <&book>Втулка передней опоры картера дифференциала]]
+****_ [[https://freelanderos.ru/man/1/chassis/rear_axle/bushing_rear_support_differential_housing.html <&book>Втулка задней опоры картера дифференциала]]
+****_ [[https://freelanderos.ru/man/1/chassis/rear_axle/oil_seal_drive_shaft_final_drive.html <&book>Сальник ведущего вала главной передачи]]
+****_ [[https://freelanderos.ru/man/1/chassis/rear_axle/gland_rear_drive_shaft.html <&book>Сальник заднего приводного вала]]
+*** Передняя подвеска
+**** Стабилизатор поперечной устойчивости
+*****_ [[https://freelanderos.ru/man/1/chassis/front_suspension/rubber_pads_rod_stabilizer_bar.html <&book>Резиновые подушки штанги стабилизатора поперечной устойчивости]]
+*****_ [[https://freelanderos.ru/man/1/chassis/front_suspension/stabilizer_bar.html <&book>Стабилизатор поперечной устойчивости]]
+*****_ [[https://freelanderos.ru/man/1/chassis/front_suspension/stabilizer_bar_tie.html <&book>Стойки стабилизатора поперечной устойчивости]]
+*****_ [[https://freelanderos.ru/man/1/chassis/front_suspension/rubber_pads_rod_stabilizer_bar.html <&book>Резиновые подушки штанги стабилизатора поперечной устойчивости]]
+**** Подшипник ступицы
+*****_ [[https://freelanderos.ru/man/1/chassis/front_suspension/bearing_of_hub.html <&book>Подшипник ступицы - снятие и установка]]
+**** Амортизатор
+*****_ [[https://freelanderos.ru/man/1/chassis/front_suspension/shock_absorber.html <&book>Амортизатор - снятие и установка]]
+**** Нижний рычаг
+*****_ [[https://freelanderos.ru/man/1/chassis/front_suspension/lower_lever_assembly.html <&book>Нижний рычаг в сборе - снятие и установка]]
+*****_ [[https://freelanderos.ru/man/1/chassis/front_suspension/silent_blocks_front_lower_arms.html <&book>Передние сайлент-блоки нижних рычагов]]
+*****_ [[https://freelanderos.ru/man/1/chassis/front_suspension/rear_silent_blocks_lower_arms.html <&book>Задние сайлент-блоки нижних рычагов]]
+**** Передний подрамник
+*****_ [[https://freelanderos.ru/man/1/chassis/front_suspension/front_subframe.html <&book>Передний подрамник - снятие и установка]]
+*** Задняя подвеска
+**** Подшипники ступицы
+*****_ [[https://freelanderos.ru/man/1/chassis/rear_suspension/bearing_of_hub.html <&book>Подшипник ступицы - снятие и установка]]
+**** Амортизаторы
+*****_ [[https://freelanderos.ru/man/1/chassis/rear_suspension/shock_absorber.html <&book>Амортизатор - снятие и установка]]
+**** Продольный рычаг
+*****_ [[https://freelanderos.ru/man/1/chassis/rear_suspension/trailing_arm.html <&book>Продольный рычаг - снятие и установка]]
+*****_ [[https://freelanderos.ru/man/1/chassis/rear_suspension/silent_block_longitudinal_arm.html <&book>Сайлент-блок продольного рычага]]
+*****_ [[https://freelanderos.ru/man/1/chassis/rear_suspension/silent_block_trailing_arm.html <&book>Сайлент-блок продольного рычага]]
+**** Поперечные рычаги
+*****_ [[https://freelanderos.ru/man/1/chassis/rear_suspension/adjustable_wishbone.html <&book>Регулируемый поперечный рычаг]]
+*****_ [[https://freelanderos.ru/man/1/chassis/rear_suspension/unregulated_wishbone.html <&book>Нерегулируемый поперечный рычаг]]
+*****_ [[https://freelanderos.ru/man/1/chassis/rear_suspension/silent_blocks_wishbone.html <&book>Сайлент-блоки поперечных рычагов]]
+**** Подрамник
+*****_ [[https://freelanderos.ru/man/1/chassis/rear_suspension/rear_subframe.html <&book>Задний подрамник - снятие и установка]]
+
+
+*** Тормозная система
+****_ [[https://freelanderos.ru/man/1/chassis/brake/removal_of_air.html <&book>Удаление воздуха из тормозной системы]]
+**** Передние тормоза
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/front_brake_disc.html <&book>Передний тормозной диск - снятие и установка]]
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/front_left_brake_line.html <&book>Передний левый тормозной шланг]]
+***** Передние колодки
+******_ [[https://freelanderos.ru/man/1/chassis/brake/front_brake_pads.html <&book>Передние тормозные колодки]]
+**** Задние тормоза
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/rear_brake_drum.html <&book>Задний тормозной барабан - снятие и установка]]
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/rear_brake_line.html <&book>Задний тормозной шланг]]
+***** Задние колодки
+******_ [[https://freelanderos.ru/man/1/chassis/brake/rear_brake_pads.html <&book>Задние тормозные колодки]]
+***** Cтояночный тормоз
+******_ [[https://freelanderos.ru/man/1/chassis/brake/check_and_adjust_parking_brake_cable.html <&book>Проверка и регулировка троса стояночной тормозной системы]]
+******_ [[https://freelanderos.ru/man/1/chassis/brake/parking_brake_lever_assembly.html <&book>Рычаг стояночного тормоза в сборе]]
+******_ [[https://freelanderos.ru/man/1/chassis/brake/parking_brake_cables.html <&book>Трос привода стояночного тормоза]]
+******_ [[https://freelanderos.ru/man/1/chassis/brake/switch_off_alarm_brake.html <&book>Выключатель сигнализатора выключения стояночного тормоза]]
+**** Главный цилиндр
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/dual_brake_master_cylinder_left.html <&book>Сдвоенный главный тормозной цилиндр - с левым рулевым колесом]]
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/dual_brake_master_cylinder_right.html <&book>Сдвоенный главный тормозной цилиндр - с правым рулевым колесом]]
+**** Вакуумный усилитель
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/servo_assembly_left.html <&book>Вакуумный усилитель в сборе - с левым рулевым колесом]]
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/servo_assembly_right.html <&book>Вакуумный усилитель в сборе - с правым рулевым колесом]]
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/vacuum_pump_td4_and_manual.html <&book>Вакуумный насос - для автомобилей с двигателем Td4 и МКП]]
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/vacuum_pump_td4_and_automatic.html <&book>Вакуумный насос - для автомобилей с двигателем Td4 и АКП]]
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/power_vacuum_kv6.html <&book>Усилитель разрежения - для автомобилей с двигателем KV6]]
+**** Педаль тормоза
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/brake_light_switch.html <&book>Выключатель стоп-сигналов]]
+
+
+
+** Кузов
+*** VIN Номер
+****_ [[https://lrservice.info/obzory-land-rover/rasshifrovka-vin-land-rover/ <&info>Расшифровка VIN]]
+*** Пассивная безопастность
+**** Ремни безопастности
+*****_ [[https://freelanderos.ru/man/1/carcass/passive_safety/height_adjustable_belt_loop_on_middle_b_pillar.html <&book>Регулируемая по высоте петля ремня безопасности на средней B стойке кузова]]
+***** Замки ремней безопастности
+******_ [[https://freelanderos.ru/man/1/carcass/passive_safety/belt_buckle_left_rear_seats_3.html <&book>Замок ремня безопасности левого места на заднем сиденье 3-дверного автомобиля]]
+******_ [[https://freelanderos.ru/man/1/carcass/passive_safety/belt_buckle_left_rear_seats_5.html <&book>Замок ремня безопасности левого места на заднем сиденье 5-дверного автомобиля]]
+*****_ [[https://freelanderos.ru/man/1/carcass/passive_safety/belt_buckle_central_place_back_seat.html <&book>Замок ремня безопасности центрального места на заднем сиденье]]
+***** Преднатяжители
+******_ [[https://freelanderos.ru/man/1/carcass/passive_safety/pretensioner_front_seat_belt.html <&book>Преднатяжитель переднего ремня безопасности]]
+*****_ [[https://freelanderos.ru/man/1/carcass/passive_safety/triggering_dismantled_pretensioner_front_seat_belt.html <&book>Срабатывание демонтированного преднатяжителя переднего ремня безопасности]]
+*****_ [[https://freelanderos.ru/man/1/carcass/passive_safety/triggering_pretensioner_front_seat_belt_without_dismantle.html <&book>Срабатывание преднатяжителя переднего ремня безопасности без демонтажа с автомобиля]]
+**** Подушки безопастности
+*****_ [[https://freelanderos.ru/man/1/carcass/passive_safety/rotary_contactor_airbag_system.html <&book>Поворотный контактор системы подушек безопасности]]
+***** Подушка водителя
+******_ [[https://freelanderos.ru/man/1/carcass/passive_safety/driver_airbag.html <&book>Подушка безопасности водителя]]
+******_ [[https://freelanderos.ru/man/1/carcass/passive_safety/rotary_contactor_airbag_system.html <&book>Поворотный контактор системы подушек безопасности]]
+******_ [[https://freelanderos.ru/man/1/carcass/passive_safety/triggering_dismantled_from_car_driver_airbag.html <&book>Срабатывание демонтированной с автомобиля подушки безопасности водителя]]
+******_ [[https://freelanderos.ru/man/1/carcass/passive_safety/driver_airbag_deployment_without_dismantle_from_car.html <&book>Срабатывание подушки безопасности водителя без демонтажа с автомобиля]]
+***** Подушка пассажира
+******_ [[https://freelanderos.ru/man/1/carcass/passive_safety/front_passenger_airbag_before_2004.html <&book>Подушка безопасности переднего пассажира - до 2004 модельного года]]
+******_ [[https://freelanderos.ru/man/1/carcass/passive_safety/front_passenger_airbag_after_2004.html <&book>Подушка безопасности переднего пассажира - после 2004-го года]]
+******_ [[https://freelanderos.ru/man/1/carcass/passive_safety/triggering_dismantled_from_vehicle_airbags.html <&book>Срабатывание демонтированной с автомобиля подушки безопасности переднего пассажира]]
+**** Блок DCU
+*****_ [[https://freelanderos.ru/man/1/carcass/passive_safety/dcu.html <&book>Блок бортовой диагностики (DCU)]]
+*** Двери
+****_ [[https://freelanderos.ru/man/1/carcass/doors/removing_front_door_assembly.html <&book>Демонтаж передней двери в сборе для обеспечения доступа к другим элементам]]
+****_ [[https://freelanderos.ru/man/1/carcass/doors/removing_rear_door_assembly.html <&book>Демонтаж задней двери в сборе для обеспечения доступа к другим элементам]]
+****_ [[https://freelanderos.ru/man/1/carcass/doors/removing_tailgate_assembly.html <&book>Демонтаж двери багажного отделения в сборе для обеспечения доступа к другим элементам]]
+
+**** Накладки дверей
+***** 3х дверка
+******_ [[https://freelanderos.ru/man/1/carcass/doors/lower_plastic_overlay_front_door_3.html <&book>Нижняя пластиковая накладка передней двери 3-дверного автомобиля]]
+******_ [[https://freelanderos.ru/man/1/carcass/doors/pocket_front_door_3.html <&book>Карман передней двери 3-дверного автомобиля]]
+******_ [[https://freelanderos.ru/man/1/carcass/doors/top_plastic_overlay_front_door_3.html <&book>Верхняя пластиковая накладка передней двери 3-дверного автомобиля]]
+******_ [[https://freelanderos.ru/man/1/carcass/doors/decorative_panel_of_front_door_3.html <&book>Декоративная панель передней двери 3-дверного автомобиля]]
+***** 5и дверка
+****** Передние
+*******_ [[https://freelanderos.ru/man/1/carcass/doors/plastic_lining_of_front_door_5.html <&book>Пластиковая накладка передней двери 5-дверного автомобиля]]
+*******_ [[https://freelanderos.ru/man/1/carcass/doors/decorative_panel_front_door_5.html <&book>Декоративная панель передней двери 5-дверного автомобиля - до 2004-го года]]
+*******_ [[https://freelanderos.ru/man/1/carcass/doors/decorative_panel_front_door_5_after_2004.html <&book>Декоративная панель передней двери 5-дверного автомобиля - после 2004-го года]]
+****** Задние
+*******_ [[https://freelanderos.ru/man/1/carcass/doors/decorative_panel_tailgate_after_2004.html <&book>Декоративная панель задней двери для автомобилей после 2004-го года]]
+*******_ [[https://freelanderos.ru/man/1/carcass/doors/plastic_pad_tailgate.html <&book>Пластиковая накладка задней двери]]
+*******_ [[https://freelanderos.ru/man/1/carcass/doors/decorative_panel_tailgate_before_2004.html <&book>Декоративная панель задней двери для автомобилей до 2004-го года]]
+*******_ [[https://freelanderos.ru/man/1/carcass/doors/decorative_panel_tailgate_after_2004.html <&book>Декоративная панель задней двери для автомобилей после 2004-го года]]
+***** Дверь багажника
+******_ [[https://freelanderos.ru/man/1/carcass/doors/decorative_panel_tailgate.html <&book>Декоративная панель двери багажного отделения]]
+******_ [[https://freelanderos.ru/man/1/carcass/doors/plastic_pad_liftgate.html <&book>Пластиковая накладка двери багажного отделения]]
+
+
+**** Замки дверей
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/lock_front_door_3.html <&book>Замок передней двери 3-дверного автомобиля]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/lock_front_door_5.html <&book>Замок передней двери 5-дверного автомобиля]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/lock_back_door.html <&book>Замок задней двери]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/lock_tailgate.html <&book>Замок двери багажного отделения]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/adjusting_striker_front_or_rear_door.html <&book>Регулировка фиксатора замка передней или задней двери]]
+
+
+**** Ручка внутренняя
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/handle_unlocking_front_door.html <&book>Рукоятка отпирания замка передней двери]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/handle_unlocking_back_door.html <&book>Рукоятка отпирания замка задней двери]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/cable_grip_unlocking_door_lock_5.html <&book>Трос рукоятки отпирания дверного замка 5-дверного автомобиля]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/inner_door_handle_5.html <&book>Внутренняя дверная ручка 5-дверного автомобиля - до 2004-го года]]
+
+**** Ручка наружная
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/external_handle_rear_door.html <&book>Наружная ручка задней двери]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/external_handle_tailgate.html <&book>Наружная ручка двери багажного отделения]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/external_handle_front_door.html <&book>Наружная ручка передней двери]]
+
+
+**** Петли
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/adjusting_front_door_hinges.html <&book>Регулировка петель передней двери]]
+
+**** Стёкла
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/glass_front_door.html <&book>Стекло передней двери]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/glass_rear_door.html <&book>Стекло задней двери]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/side_pad_rear_window_5.html <&book>Боковая накладка заднего стекла 5-дверного автомобиля]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/side_pad_rear_window_5.html <&book>Боковая накладка заднего стекла 5-дверного автомобиля]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/glass_tailgate.html <&book>Стекло двери багажного отделения]]
+**** Уплотнители
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/rubber_window_seals_front_door.html <&book>Резиновый/фетровый оконный уплотнитель передней двери]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/rubber_window_seal_rear_door.html <&book>Резиновый/фетровый оконный уплотнитель задней двери]]
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/inside_lower_window_seal_tailgate.html <&book>Внутренний нижний оконный уплотнитель двери багажного отделения]]
+**** Стеклоподёмники
+*****_ [[https://freelanderos.ru/man/1/carcass/doors/power_windows_tailgate.html <&book>Стеклоподъемник двери багажного отделения]]
+
+
+
+*** Дополнительное оборудование
+
+
+** Электрооборудование
+*** Реле
+*** Центральный модуль управления (CCU)
+****_ [[https://lrfreelander.ru/viewtopic.php?id=10134 <&people>Замена модуля CCU (нужно перепаивать микросхему)]]
+****_ [[https://lrfreelander.ru/viewtopic.php?id=884 <&people>Метод проверки CCU (возможно нерабочий)]]
+*** Освещение
+**** Фары головного света
+**** Противотуманный свет
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=4 <&people>Форум: Противотуманный свет]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=7592#p213723 <&person>Фото: Варианты установки ПТФ]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=7592#p213743 <&person>Фото: Варианты установки ПТФ]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=7592#p214189 <&person>Совет: На место штатных ПТФ подходят от Калины]]
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=7592 <&people>Форум: Выбор ПТФ]]
+**** Комбинированные фонари - ПТФ+Габариты
+*****_ [[https://freelanderos.ru/man/1/electrics/lighting/combined_lamp_from_2004.html <&book>Модель: 04MY]]
+
+
+
+
+**[#FF4C5B] <&warning*2>
+*** Авто не открывается
+*** Авто открывается
+**** Проблемы с пуском двигателя
+***** см. двигатель <&warning>
+**** Нет проблем с пуском двигателя
+
+
+** Диагностика, определение неисправности
+*** Авто не открывается
+**** Авто открывается
+**** Проблемы с пуском двигателя
+***** Не заводится
+***** Плохо заводится
+******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p217873 <&bug>Заводится, дёргается, не развивает обороты]]
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p217898 <&person>Не работает датчик температуры]]
+*******_ Плохо работает бензонасос
+*******_ Плохо работает зажигание
+********_ Проблемы с крышкой трамблера
+********_ Проблемы с бегунком
+********_ Проблемы со свечами
+********_ Проблемы с высоковольтными проводами
+********_ Проблемы с катушкой (катушками)
+******_ [[https://lrfreelander.ru/viewtopic.php?id=5#p294 <&bug>Плохо заводится на холодную, на ходу при ускорении плохо набирает обороты]]
+*******_ Неисправность бензонасоса
+**** Нет проблем с пуском двигателя
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p220937 <&bug>Пропадает тяга под нагрузкой]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p220937 <&person>Проблемы с МАП сенсором]]
+***** Троит
+******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p219699 <&people>Троит на холостых, свечи чёрные]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p246287 <&people>Заводится нормально, после прогрева троит]]
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p246287 <&people>Неисправность крышки трамблера]]
+***** Чёрные свечи
+******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p219699 <&people>Троит на холостых, свечи чёрные]]
+
+left side
+
+@endmindmap
