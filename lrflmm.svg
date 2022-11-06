@@ -1,0 +1,585 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="2585px" height="2649px" viewBox="0, 0, 2585, 2649" preserveAspectRatio="none" contentStyleType="text/css" zoomAndPan="magnify" style="background:#FFF;">
+  <defs>
+    <filter x="-1" y="-1" width="300%" height="300%" id="f126nszw7bhvi7">
+      <feGaussianBlur stdDeviation="2" result="blurOut" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0" in="blurOut" result="blurOut2" />
+      <feOffset dx="4" dy="4" in="blurOut2" result="blurOut3" />
+      <feBlend mode="normal" in2="blurOut3" in="SourceGraphic" />
+    </filter>
+  </defs>
+  <g>
+    <rect x="2477" y="10" width="23" height="12.5781" rx="3.5" ry="3.5" stroke-width="1" style="fill:white;" />
+    <text x="2477" y="20.3809" textLength="23" lengthAdjust="spacing" font-family="sans-serif" font-size="10" style="fill:#888888;">v.0.2</text>
+    <rect x="1059.5" y="28.5781" width="391" height="27.6094" rx="3.5" ry="3.5" stroke-width="1" style="fill:white;" />
+    <text x="1064.5" y="48.1113" textLength="381" lengthAdjust="spacing" font-family="sans-serif" font-size="14" font-weight="bold" style="fill:black;">Большая карта Фриловода [LR Freelander Mind Map]</text>
+    <rect x="687" y="1318.484" width="123" height="41.6094" filter="url(#f126nszw7bhvi7)" stroke-width="3" stroke-dasharray="8 3" style="fill:lightgreen;stroke:green;" />
+    <text x="699" y="1345.018" textLength="99" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Lr Freelander 1</text>
+    <rect x="846" y="912.3672" width="116" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="858" y="938.9004" textLength="92" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Двигатель 1.8</text>
+    <rect x="998" y="257.0859" width="136" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1010" y="283.6191" textLength="112" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Общие сведения</text>
+    <text x="1173" y="77.7207" textLength="25" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Тип</text>
+    <text x="1237" y="77.7207" textLength="464" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">1,8 л, бензиновый, 16-клапанный, 2 верхних распределительных вала</text>
+    <path d="M1198 71.9922 L1208 71.9922 C1223 71.9922 1209 71.9922 1224 71.9922 L1234 71.9922" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 71.9922 1160 71.9922 L1170 71.9922" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1173" y="97.3301" textLength="173" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Расположение цилиндров</text>
+    <text x="1385" y="97.3301" textLength="587" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">4 цилиндра, расположенные в ряд; нумерация цилиндров от передней части двигателя</text>
+    <path d="M1346 91.6016 L1356 91.6016 C1371 91.6016 1357 91.6016 1372 91.6016 L1382 91.6016" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 91.6016 1160 91.6016 L1170 91.6016" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1173" y="126.7441" textLength="127" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Диаметр цилиндра</text>
+    <text x="1339" y="116.9395" textLength="60" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">80,00 мм</text>
+    <path d="M1300 121.0156 L1310 121.0156 C1325 121.0156 1311 111.2109 1326 111.2109 L1336 111.2109" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1339" y="136.5488" textLength="85" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">3,150 дюйма</text>
+    <path d="M1300 121.0156 L1310 121.0156 C1325 121.0156 1311 130.8203 1326 130.8203 L1336 130.8203" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 121.0156 1160 121.0156 L1170 121.0156" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1173" y="165.9629" textLength="79" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Ход поршня</text>
+    <text x="1291" y="156.1582" textLength="60" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">89,30 мм</text>
+    <path d="M1252 160.2344 L1262 160.2344 C1277 160.2344 1263 150.4297 1278 150.4297 L1288 150.4297" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1291" y="175.7676" textLength="85" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">3,516 дюйма</text>
+    <path d="M1252 160.2344 L1262 160.2344 C1277 160.2344 1263 170.0391 1278 170.0391 L1288 170.0391" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 160.2344 1160 160.2344 L1170 160.2344" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1173" y="205.1816" textLength="103" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Рабочий объем</text>
+    <text x="1315" y="195.377" textLength="61" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">1796 см3</text>
+    <path d="M1276 199.4531 L1286 199.4531 C1301 199.4531 1287 189.6484 1302 189.6484 L1312 189.6484" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1315" y="214.9863" textLength="108" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">109,59 дюймов3</text>
+    <path d="M1276 199.4531 L1286 199.4531 C1301 199.4531 1287 209.2578 1302 209.2578 L1312 209.2578" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 199.4531 1160 199.4531 L1170 199.4531" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1173" y="234.5957" textLength="108" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Порядок работы</text>
+    <text x="1320" y="234.5957" textLength="47" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">1-3-4-2</text>
+    <path d="M1281 228.8672 L1291 228.8672 C1306 228.8672 1292 228.8672 1307 228.8672 L1317 228.8672" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 228.8672 1160 228.8672 L1170 228.8672" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1173" y="254.2051" textLength="108" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Степень сжатия</text>
+    <text x="1320" y="254.2051" textLength="96" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">10,5 :1 ± 0,5 :1</text>
+    <path d="M1281 248.4766 L1291 248.4766 C1306 248.4766 1292 248.4766 1307 248.4766 L1317 248.4766" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 248.4766 1160 248.4766 L1170 248.4766" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1173" y="273.8145" textLength="158" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Направление вращения</text>
+    <text x="1370" y="273.8145" textLength="427" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">По часовой стрелке, если смотреть с передней части двигателя</text>
+    <path d="M1331 268.0859 L1341 268.0859 C1356 268.0859 1342 268.0859 1357 268.0859 L1367 268.0859" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 268.0859 1160 268.0859 L1170 268.0859" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1173" y="293.4238" textLength="169" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Максимальная мощность</text>
+    <text x="1381" y="293.4238" textLength="223" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">88 КВт (118 л.с.) при 5500 об/мин</text>
+    <path d="M1342 287.6953 L1352 287.6953 C1367 287.6953 1353 287.6953 1368 287.6953 L1378 287.6953" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 287.6953 1160 287.6953 L1170 287.6953" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1173" y="313.0332" textLength="222" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Максимальный крутящий момент</text>
+    <text x="1434" y="313.0332" textLength="293" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">165 Нм (223,7 фунт-футов) при 2750 об/мин</text>
+    <path d="M1395 307.3047 L1405 307.3047 C1420 307.3047 1406 307.3047 1421 307.3047 L1431 307.3047" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 307.3047 1160 307.3047 L1170 307.3047" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1173" y="332.6426" textLength="226" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Частота вращения холостого хода</text>
+    <text x="1438" y="332.6426" textLength="106" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">775 ± 50 об/мин</text>
+    <path d="M1399 326.9141 L1409 326.9141 C1424 326.9141 1410 326.9141 1425 326.9141 L1435 326.9141" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 326.9141 1160 326.9141 L1170 326.9141" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1173" y="352.252" textLength="259" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Максимальная частота вращения вала</text>
+    <text x="1471" y="352.252" textLength="82" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">6750 об/мин</text>
+    <path d="M1432 346.5234 L1442 346.5234 C1457 346.5234 1443 346.5234 1458 346.5234 L1468 346.5234" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 346.5234 1160 346.5234 L1170 346.5234" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1173" y="371.8613" textLength="545" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Масса(с полным оборудованием,заполненными системами смазки и охлаждения)</text>
+    <text x="1757" y="371.8613" textLength="39" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">108 кг</text>
+    <path d="M1718 366.1328 L1728 366.1328 C1743 366.1328 1729 366.1328 1744 366.1328 L1754 366.1328" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 366.1328 1160 366.1328 L1170 366.1328" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1170" y="413.9609" width="167" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1182" y="440.4941" textLength="143" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Габаритные размеры</text>
+    <text x="1376" y="401.2754" textLength="145" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Длина (номинальная)</text>
+    <text x="1560" y="391.4707" textLength="48" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">654 мм</text>
+    <path d="M1521 395.5469 L1531 395.5469 C1546 395.5469 1532 385.7422 1547 385.7422 L1557 385.7422" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1560" y="411.0801" textLength="85" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">25,75 дюйма</text>
+    <path d="M1521 395.5469 L1531 395.5469 C1546 395.5469 1532 405.3516 1547 405.3516 L1557 405.3516" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1337 434.7656 L1347 434.7656 C1362 434.7656 1348 395.5469 1363 395.5469 L1373 395.5469" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1376" y="440.4941" textLength="157" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Ширина (номинальная)</text>
+    <text x="1572" y="430.6895" textLength="48" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">600 мм</text>
+    <path d="M1533 434.7656 L1543 434.7656 C1558 434.7656 1544 424.9609 1559 424.9609 L1569 424.9609" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1572" y="450.2988" textLength="85" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">23,62 дюйма</text>
+    <path d="M1533 434.7656 L1543 434.7656 C1558 434.7656 1544 444.5703 1559 444.5703 L1569 444.5703" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1337 434.7656 L1347 434.7656 C1362 434.7656 1348 434.7656 1363 434.7656 L1373 434.7656" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1376" y="479.7129" textLength="153" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Высота (номинальная)</text>
+    <text x="1568" y="469.9082" textLength="48" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">615 мм</text>
+    <path d="M1529 473.9844 L1539 473.9844 C1554 473.9844 1540 464.1797 1555 464.1797 L1565 464.1797" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1568" y="489.5176" textLength="85" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">24,21 дюйма</text>
+    <path d="M1529 473.9844 L1539 473.9844 C1554 473.9844 1540 483.7891 1555 483.7891 L1565 483.7891" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1337 434.7656 L1347 434.7656 C1362 434.7656 1348 473.9844 1363 473.9844 L1373 473.9844" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1134 277.8906 L1144 277.8906 C1159 277.8906 1145 434.7656 1160 434.7656 L1170 434.7656" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M962 933.1719 L972 933.1719 C987 933.1719 973 277.8906 988 277.8906 L998 277.8906" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="998" y="598.8359" width="306" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1010" y="625.3691" textLength="282" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Диагностика, определение неисправности</text>
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=7815#p217873" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=7815#p217873" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1343" y="567.9551" textLength="300" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Заводится, дёргается, не развивает обороты</text>
+    </a>
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=7815#p217898" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=7815#p217898" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1682" y="509.127" textLength="224" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Не работает датчик температуры</text>
+    </a>
+    <path d="M1643 562.2266 L1653 562.2266 C1668 562.2266 1654 503.3984 1669 503.3984 L1679 503.3984" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1682" y="528.7363" textLength="185" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Плохо работает бензонасос</text>
+    <path d="M1643 562.2266 L1653 562.2266 C1668 562.2266 1654 523.0078 1669 523.0078 L1679 523.0078" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1682" y="587.5645" textLength="177" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Плохо работает зажигание</text>
+    <text x="1898" y="548.3457" textLength="218" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Проблемы с крышкой трамблера</text>
+    <path d="M1859 581.8359 L1869 581.8359 C1884 581.8359 1870 542.6172 1885 542.6172 L1895 542.6172" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1898" y="567.9551" textLength="144" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Проблемы с бегунком</text>
+    <path d="M1859 581.8359 L1869 581.8359 C1884 581.8359 1870 562.2266 1885 562.2266 L1895 562.2266" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1898" y="587.5645" textLength="147" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Проблемы со свечами</text>
+    <path d="M1859 581.8359 L1869 581.8359 C1884 581.8359 1870 581.8359 1885 581.8359 L1895 581.8359" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1898" y="607.1738" textLength="281" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Проблемы с высоковольтными проводами</text>
+    <path d="M1859 581.8359 L1869 581.8359 C1884 581.8359 1870 601.4453 1885 601.4453 L1895 601.4453" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1898" y="626.7832" textLength="230" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Проблемы с катушкой (катушками)</text>
+    <path d="M1859 581.8359 L1869 581.8359 C1884 581.8359 1870 621.0547 1885 621.0547 L1895 621.0547" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1643 562.2266 L1653 562.2266 C1668 562.2266 1654 581.8359 1669 581.8359 L1679 581.8359" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1304 619.6406 L1314 619.6406 C1329 619.6406 1315 562.2266 1330 562.2266 L1340 562.2266" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=7815#p220937" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=7815#p220937" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1343" y="646.3926" textLength="200" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Пропадает тяга под нагрузкой</text>
+    </a>
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=7815#p220937" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=7815#p220937" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1582" y="646.3926" textLength="181" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Проблемы с МАП сенсором</text>
+    </a>
+    <path d="M1543 640.6641 L1553 640.6641 C1568 640.6641 1554 640.6641 1569 640.6641 L1579 640.6641" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1304 619.6406 L1314 619.6406 C1329 619.6406 1315 640.6641 1330 640.6641 L1340 640.6641" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1340" y="653.4688" width="64" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1352" y="680.002" textLength="40" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Троит</text>
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=7815#p219699" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=7815#p219699" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1443" y="670.1973" textLength="222" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Троит на холостых, свечи чёрные</text>
+    </a>
+    <path d="M1404 674.2734 L1414 674.2734 C1429 674.2734 1415 664.4688 1430 664.4688 L1440 664.4688" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=7815#p246287" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=7815#p246287" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1443" y="689.8066" textLength="300" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Заводится нормально, после прогрева троит</text>
+    </a>
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=7815#p246287" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=7815#p246287" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1782" y="689.8066" textLength="231" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Неисправность крышки трамблера</text>
+    </a>
+    <path d="M1743 684.0781 L1753 684.0781 C1768 684.0781 1754 684.0781 1769 684.0781 L1779 684.0781" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1404 674.2734 L1414 674.2734 C1429 674.2734 1415 684.0781 1430 684.0781 L1440 684.0781" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1304 619.6406 L1314 619.6406 C1329 619.6406 1315 674.2734 1330 674.2734 L1340 674.2734" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1340" y="701.0781" width="115" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1352" y="727.6113" textLength="91" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Чёрные свечи</text>
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=7815#p219699" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=7815#p219699" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1494" y="727.6113" textLength="222" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Троит на холостых, свечи чёрные</text>
+    </a>
+    <path d="M1455 721.8828 L1465 721.8828 C1480 721.8828 1466 721.8828 1481 721.8828 L1491 721.8828" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1304 619.6406 L1314 619.6406 C1329 619.6406 1315 721.8828 1330 721.8828 L1340 721.8828" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M962 933.1719 L972 933.1719 C987 933.1719 973 619.6406 988 619.6406 L998 619.6406" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="998" y="783.7109" width="131" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1010" y="810.2441" textLength="107" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Блок цилиндров</text>
+    <rect x="1165" y="783.7109" width="129" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1177" y="810.2441" textLength="105" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Характеристики</text>
+    <text x="1333" y="761.2207" textLength="66" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Материал</text>
+    <text x="1438" y="761.2207" textLength="137" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Алюминиевый сплав</text>
+    <path d="M1399 755.4922 L1409 755.4922 C1424 755.4922 1410 755.4922 1425 755.4922 L1435 755.4922" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1294 804.5156 L1304 804.5156 C1319 804.5156 1305 755.4922 1320 755.4922 L1330 755.4922" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1333" y="780.8301" textLength="140" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Тип гильз цилиндров</text>
+    <text x="1512" y="780.8301" textLength="760" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Мокрые, с нижней ребристой частью, устанавливаемые на скользящей посадке в нижнюю часть блока цилиндров</text>
+    <path d="M1473 775.1016 L1483 775.1016 C1498 775.1016 1484 775.1016 1499 775.1016 L1509 775.1016" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1294 804.5156 L1304 804.5156 C1319 804.5156 1305 775.1016 1320 775.1016 L1330 775.1016" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1333" y="829.8535" textLength="173" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Диаметр гильз цилиндров</text>
+    <text x="1545" y="810.2441" textLength="208" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Класс А с красной маркировкой</text>
+    <text x="1792" y="800.4395" textLength="125" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">80 000 - 80,015 мм</text>
+    <path d="M1753 804.5156 L1763 804.5156 C1778 804.5156 1764 794.7109 1779 794.7109 L1789 794.7109" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1792" y="820.0488" textLength="157" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">3,1496 - 3,1501 дюймов</text>
+    <path d="M1753 804.5156 L1763 804.5156 C1778 804.5156 1764 814.3203 1779 814.3203 L1789 814.3203" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1506 824.125 L1516 824.125 C1531 824.125 1517 804.5156 1532 804.5156 L1542 804.5156" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1545" y="849.4629" textLength="194" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Класс В с синей маркировкой</text>
+    <text x="1778" y="839.6582" textLength="125" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">80,016 - 80,030 мм</text>
+    <path d="M1739 843.7344 L1749 843.7344 C1764 843.7344 1750 833.9297 1765 833.9297 L1775 833.9297" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1778" y="859.2676" textLength="157" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">3,1502 - 3,1508 дюймов</text>
+    <path d="M1739 843.7344 L1749 843.7344 C1764 843.7344 1750 853.5391 1765 853.5391 L1775 853.5391" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1506 824.125 L1516 824.125 C1531 824.125 1517 843.7344 1532 843.7344 L1542 843.7344" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1294 804.5156 L1304 804.5156 C1319 804.5156 1305 824.125 1320 824.125 L1330 824.125" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1129 804.5156 L1139 804.5156 C1154 804.5156 1140 804.5156 1155 804.5156 L1165 804.5156" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M962 933.1719 L972 933.1719 C987 933.1719 973 804.5156 988 804.5156 L998 804.5156" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="998" y="1023.219" width="195" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1010" y="1049.752" textLength="171" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Головка блока цилиндров</text>
+    <rect x="1229" y="886.6602" width="129" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1241" y="913.1934" textLength="105" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Характеристики</text>
+    <text x="1397" y="878.877" textLength="66" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Материал</text>
+    <text x="1502" y="878.877" textLength="137" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Алюминиевый сплав</text>
+    <path d="M1463 873.1484 L1473 873.1484 C1488 873.1484 1474 873.1484 1489 873.1484 L1499 873.1484" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1358 907.4648 L1368 907.4648 C1383 907.4648 1369 873.1484 1384 873.1484 L1394 873.1484" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1397" y="922.998" textLength="145" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Высота головки блока</text>
+    <text x="1581" y="908.291" textLength="40" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Новая</text>
+    <text x="1660" y="898.4863" textLength="125" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">118,95 - 119,05 мм</text>
+    <path d="M1621 902.5625 L1631 902.5625 C1646 902.5625 1632 892.7578 1647 892.7578 L1657 892.7578" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1660" y="918.0957" textLength="141" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">4,683 - 4,687 дюймов</text>
+    <path d="M1621 902.5625 L1631 902.5625 C1646 902.5625 1632 912.3672 1647 912.3672 L1657 912.3672" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1542 917.2695 L1552 917.2695 C1567 917.2695 1553 902.5625 1568 902.5625 L1578 902.5625" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1581" y="937.7051" textLength="306" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Припуск на обработку привалочной плоскости</text>
+    <text x="1926" y="927.9004" textLength="52" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">0,20 мм</text>
+    <path d="M1887 931.9766 L1897 931.9766 C1912 931.9766 1898 922.1719 1913 922.1719 L1923 922.1719" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1926" y="947.5098" textLength="85" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">0,008 дюйма</text>
+    <path d="M1887 931.9766 L1897 931.9766 C1912 931.9766 1898 941.7813 1913 941.7813 L1923 941.7813" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1542 917.2695 L1552 917.2695 C1567 917.2695 1553 931.9766 1568 931.9766 L1578 931.9766" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1358 907.4648 L1368 907.4648 C1383 907.4648 1369 917.2695 1384 917.2695 L1394 917.2695" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1193 1044.023 L1203 1044.023 C1218 1044.023 1204 907.4648 1219 907.4648 L1229 907.4648" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1229" y="1045.633" width="124" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1241" y="1072.166" textLength="100" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Прокладка ГБЦ</text>
+    <rect x="1389" y="989.6094" width="177" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1401" y="1016.143" textLength="153" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Замена прокладки ГБЦ</text>
+    <a xlink:href="https://freelanderos.ru/man/1/power/engine_k1_8/cylinder_head_gasket.html" xlink:show="new" xlink:title="https://freelanderos.ru/man/1/power/engine_k1_8/cylinder_head_gasket.html" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1605" y="967.1191" textLength="523" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Мануал: Прокладка головки блока цилиндров (Фрилендер 1) Демонтаж,замена</text>
+    </a>
+    <path d="M1566 1010.414 L1576 1010.414 C1591 1010.414 1577 961.3906 1592 961.3906 L1602 961.3906" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=1286" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=1286" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1605" y="986.7285" textLength="395" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">1. LRF Большая Подробная ветка о замене прокладки  ГБЦ</text>
+    </a>
+    <path d="M1566 1010.414 L1576 1010.414 C1591 1010.414 1577 981 1592 981 L1602 981" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=378" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=378" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1605" y="1006.338" textLength="477" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">2. LRF Большая Подробная ветка о замене прокладки  ГБЦ В картинках</text>
+    </a>
+    <path d="M1566 1010.414 L1576 1010.414 C1591 1010.414 1577 1000.609 1592 1000.609 L1602 1000.609" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=233" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=233" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1605" y="1025.947" textLength="556" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">3. LRF Большая Подробная ветка Замена прокладки ГБЦ, перегрев, ремонт движка</text>
+    </a>
+    <path d="M1566 1010.414 L1576 1010.414 C1591 1010.414 1577 1020.219 1592 1020.219 L1602 1020.219" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=5643" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=5643" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1605" y="1045.557" textLength="566" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">4. LRF Большая Подробная ветка Замена прокладки ГБЦ, перегрев, ремонт движка II</text>
+    </a>
+    <path d="M1566 1010.414 L1576 1010.414 C1591 1010.414 1577 1039.828 1592 1039.828 L1602 1039.828" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=4407" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=4407" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1605" y="1065.166" textLength="418" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">5. LRF Большая Подробная ветка Замена прокладки ГБЦ том2</text>
+    </a>
+    <path d="M1566 1010.414 L1576 1010.414 C1591 1010.414 1577 1059.438 1592 1059.438 L1602 1059.438" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1353 1066.438 L1363 1066.438 C1378 1066.438 1364 1010.414 1379 1010.414 L1389 1010.414" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1389" y="1087.656" width="196" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1401" y="1114.189" textLength="172" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Проблемы прокладки ГБЦ</text>
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=1410" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=1410" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1624" y="1084.775" textLength="247" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Проблема с обтяжкой прокладки ГБЦ</text>
+    </a>
+    <path d="M1585 1108.461 L1595 1108.461 C1610 1108.461 1596 1079.047 1611 1079.047 L1621 1079.047" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=6358" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=6358" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1624" y="1104.385" textLength="429" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">После замены прокладки ГБЦ пошли газы в систему охлаждения</text>
+    </a>
+    <path d="M1585 1108.461 L1595 1108.461 C1610 1108.461 1596 1098.656 1611 1098.656 L1621 1098.656" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=8218" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=8218" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1624" y="1123.994" textLength="207" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">После замены прокладки кипит</text>
+    </a>
+    <path d="M1585 1108.461 L1595 1108.461 C1610 1108.461 1596 1118.266 1611 1118.266 L1621 1118.266" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=8570#p228966" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=8570#p228966" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1624" y="1143.604" textLength="279" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">После замены прокладки троит двигатель</text>
+    </a>
+    <path d="M1585 1108.461 L1595 1108.461 C1610 1108.461 1596 1137.875 1611 1137.875 L1621 1137.875" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1353 1066.438 L1363 1066.438 C1378 1066.438 1364 1108.461 1379 1108.461 L1389 1108.461" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1389" y="1136.68" width="106" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1401" y="1163.213" textLength="82" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Диагностика</text>
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=2361#p49842" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=2361#p49842" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1534" y="1163.213" textLength="395" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Маслянный щуп в майонезе, уходит литр антифриза в день</text>
+    </a>
+    <path d="M1495 1157.484 L1505 1157.484 C1520 1157.484 1506 1157.484 1521 1157.484 L1531 1157.484" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1353 1066.438 L1363 1066.438 C1378 1066.438 1364 1157.484 1379 1157.484 L1389 1157.484" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1193 1044.023 L1203 1044.023 C1218 1044.023 1204 1066.438 1219 1066.438 L1229 1066.438" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1229" y="1180.094" width="97" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1241" y="1206.627" textLength="73" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Болты ГБЦ</text>
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=5050" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=5050" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1365" y="1196.822" textLength="343" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Ветка: Окончательный момент затяжки болтов ГБЦ</text>
+    </a>
+    <path d="M1326 1200.898 L1336 1200.898 C1351 1200.898 1337 1191.094 1352 1191.094 L1362 1191.094" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=7510" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=7510" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1365" y="1216.432" textLength="306" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Ветка: Целесообразность замены болтов ГБЦ</text>
+    </a>
+    <path d="M1326 1200.898 L1336 1200.898 C1351 1200.898 1337 1210.703 1352 1210.703 L1362 1210.703" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1193 1044.023 L1203 1044.023 C1218 1044.023 1204 1200.898 1219 1200.898 L1229 1200.898" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M962 933.1719 L972 933.1719 C987 933.1719 973 1044.023 988 1044.023 L998 1044.023" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="998" y="1272.531" width="107" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1010" y="1299.064" textLength="83" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Ремень ГРМ</text>
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=166" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=166" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1144" y="1240.236" textLength="250" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Выбор ремня ГРМ от 97... 1,8 145-зуб</text>
+    </a>
+    <path d="M1105 1293.336 L1115 1293.336 C1130 1293.336 1116 1234.508 1131 1234.508 L1141 1234.508" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1141" y="1282.336" width="152" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1153" y="1308.869" textLength="128" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Замена ремня ГРМ</text>
+    <a xlink:href="https://freelanderos.ru/man/1/power/engine_k1_8/timing_belt.html" xlink:show="new" xlink:title="https://freelanderos.ru/man/1/power/engine_k1_8/timing_belt.html" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1332" y="1269.65" textLength="282" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Мануал: Ремень ГРМ - снятие и установка</text>
+    </a>
+    <path d="M1293 1303.141 L1303 1303.141 C1318 1303.141 1304 1263.922 1319 1263.922 L1329 1263.922" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://www.youtube.com/watch?v=CM5oA2X03z8" xlink:show="new" xlink:title="https://www.youtube.com/watch?v=CM5oA2X03z8" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1332" y="1289.26" textLength="183" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Видео о замене ремня ГРМ</text>
+    </a>
+    <path d="M1293 1303.141 L1303 1303.141 C1318 1303.141 1304 1283.531 1319 1283.531 L1329 1283.531" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=1" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=1" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1332" y="1308.869" textLength="318" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Большая подробная ветка о замене ремня ГРМ</text>
+    </a>
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=1#p14226" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=1#p14226" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1689" y="1259.846" textLength="182" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Важно обратить внимание!</text>
+    </a>
+    <path d="M1650 1303.141 L1660 1303.141 C1675 1303.141 1661 1254.117 1676 1254.117 L1686 1254.117" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://s3.uploads.ru/t/ubxsg.jpg" xlink:show="new" xlink:title="https://s3.uploads.ru/t/ubxsg.jpg" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1689" y="1279.455" textLength="433" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Автоматический и ручной ролики разные, взаимоНезаменяемые!</text>
+    </a>
+    <path d="M1650 1303.141 L1660 1303.141 C1675 1303.141 1661 1273.727 1676 1273.727 L1686 1273.727" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://s3.uploads.ru/Sof9e.jpg" xlink:show="new" xlink:title="https://s3.uploads.ru/Sof9e.jpg" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1689" y="1299.064" textLength="160" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Схема установки меток!</text>
+    </a>
+    <path d="M1650 1303.141 L1660 1303.141 C1675 1303.141 1661 1293.336 1676 1293.336 L1686 1293.336" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=1&amp;p=3#p119053" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=1&amp;p=3#p119053" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1689" y="1318.674" textLength="445" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Самодельное приспособление для откручивания шкива коленвала</text>
+    </a>
+    <path d="M1650 1303.141 L1660 1303.141 C1675 1303.141 1661 1312.945 1676 1312.945 L1686 1312.945" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=1&amp;p=5#p211842" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=1&amp;p=5#p211842" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1689" y="1338.283" textLength="265" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Фото правильной установки ремня ГРМ</text>
+    </a>
+    <path d="M1650 1303.141 L1660 1303.141 C1675 1303.141 1661 1332.555 1676 1332.555 L1686 1332.555" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=8572#p229025" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=8572#p229025" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1689" y="1357.893" textLength="203" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Порядок установки ремня ГРМ</text>
+    </a>
+    <path d="M1650 1303.141 L1660 1303.141 C1675 1303.141 1661 1352.164 1676 1352.164 L1686 1352.164" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1293 1303.141 L1303 1303.141 C1318 1303.141 1304 1303.141 1319 1303.141 L1329 1303.141" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1105 1293.336 L1115 1293.336 C1130 1293.336 1116 1303.141 1131 1303.141 L1141 1303.141" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M962 933.1719 L972 933.1719 C987 933.1719 973 1293.336 988 1293.336 L998 1293.336" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="998" y="1364.969" width="113" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1001" y="1382.502" textLength="107" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Система смазки</text>
+    <path d="M962 933.1719 L972 933.1719 C987 933.1719 973 1376.773 988 1376.773 L998 1376.773" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="998" y="1394.578" width="142" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1001" y="1412.111" textLength="136" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Гидрокомпенсаторы</text>
+    <path d="M962 933.1719 L972 933.1719 C987 933.1719 973 1406.383 988 1406.383 L998 1406.383" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="998" y="1424.188" width="136" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1001" y="1441.721" textLength="130" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Система зажигания</text>
+    <path d="M962 933.1719 L972 933.1719 C987 933.1719 973 1435.992 988 1435.992 L998 1435.992" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="998" y="1488.82" width="87" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1010" y="1515.354" textLength="63" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Форсунки</text>
+    <rect x="1121" y="1488.82" width="129" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1133" y="1515.354" textLength="105" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Характеристики</text>
+    <text x="1289" y="1476.135" textLength="123" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Рабочее давление</text>
+    <text x="1451" y="1466.33" textLength="56" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">3,5 бара</text>
+    <path d="M1412 1470.406 L1422 1470.406 C1437 1470.406 1423 1460.602 1438 1460.602 L1448 1460.602" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1451" y="1485.939" textLength="129" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">50,8 фунтов/дюйм2</text>
+    <path d="M1412 1470.406 L1422 1470.406 C1437 1470.406 1423 1480.211 1438 1480.211 L1448 1480.211" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1250 1509.625 L1260 1509.625 C1275 1509.625 1261 1470.406 1276 1470.406 L1286 1470.406" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1289" y="1515.354" textLength="268" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Производительность топливного насоса</text>
+    <text x="1596" y="1505.549" textLength="210" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">117 г/мин при давлении 3,0 бар</text>
+    <path d="M1557 1509.625 L1567 1509.625 C1582 1509.625 1568 1499.82 1583 1499.82 L1593 1499.82" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1596" y="1525.158" textLength="248" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">4,13 унций/мин при 43,5 фунт/дюйм2</text>
+    <path d="M1557 1509.625 L1567 1509.625 C1582 1509.625 1568 1519.43 1583 1519.43 L1593 1519.43" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1250 1509.625 L1260 1509.625 C1275 1509.625 1261 1509.625 1276 1509.625 L1286 1509.625" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1289" y="1544.768" textLength="113" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Привод клапанов</text>
+    <text x="1441" y="1544.768" textLength="787" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Саморегулирующимися гидравлическими толкателями малой массы, приводимыми непосредственно распредвалами</text>
+    <path d="M1402 1539.039 L1412 1539.039 C1427 1539.039 1413 1539.039 1428 1539.039 L1438 1539.039" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1250 1509.625 L1260 1509.625 C1275 1509.625 1261 1539.039 1276 1539.039 L1286 1539.039" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1289" y="1564.377" textLength="514" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Выполняемые нормы по содержанию вредных веществ в отработавших газах</text>
+    <text x="1842" y="1564.377" textLength="37" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">ECD3</text>
+    <path d="M1803 1558.648 L1813 1558.648 C1828 1558.648 1814 1558.648 1829 1558.648 L1839 1558.648" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1250 1509.625 L1260 1509.625 C1275 1509.625 1261 1558.648 1276 1558.648 L1286 1558.648" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1085 1509.625 L1095 1509.625 C1110 1509.625 1096 1509.625 1111 1509.625 L1121 1509.625" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M962 933.1719 L972 933.1719 C987 933.1719 973 1509.625 988 1509.625 L998 1509.625" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="998" y="1665.5" width="185" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1010" y="1692.033" textLength="161" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Управление двигателем</text>
+    <rect x="1219" y="1577.063" width="136" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1231" y="1603.596" textLength="112" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Свечи зажигания</text>
+    <rect x="1391" y="1577.063" width="129" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1403" y="1603.596" textLength="105" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Характеристики</text>
+    <text x="1559" y="1583.986" textLength="25" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Тип</text>
+    <text x="1627" y="1583.986" textLength="74" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">NLP100290</text>
+    <path d="M1588 1578.258 L1598 1578.258 C1613 1578.258 1599 1578.258 1614 1578.258 L1624 1578.258" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1520 1597.867 L1530 1597.867 C1545 1597.867 1531 1578.258 1546 1578.258 L1556 1578.258" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1559" y="1613.4" textLength="38" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Зазор</text>
+    <text x="1636" y="1603.596" textLength="112" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">1,0 мм ± 0,05 мм</text>
+    <path d="M1597 1607.672 L1607 1607.672 C1622 1607.672 1608 1597.867 1623 1597.867 L1633 1597.867" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1636" y="1623.205" textLength="186" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">0,039 дюйма ± 0,002 дюйма</text>
+    <path d="M1597 1607.672 L1607 1607.672 C1622 1607.672 1608 1617.477 1623 1617.477 L1633 1617.477" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1520 1597.867 L1530 1597.867 C1545 1597.867 1531 1607.672 1546 1607.672 L1556 1607.672" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1355 1597.867 L1365 1597.867 C1380 1597.867 1366 1597.867 1381 1597.867 L1391 1597.867" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1183 1686.305 L1193 1686.305 C1208 1686.305 1194 1597.867 1209 1597.867 L1219 1597.867" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1219" y="1665.305" width="151" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1231" y="1691.838" textLength="127" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Катушка зажигания</text>
+    <rect x="1406" y="1665.305" width="129" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1418" y="1691.838" textLength="105" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Характеристики</text>
+    <text x="1574" y="1642.814" textLength="90" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Изготовитель</text>
+    <text x="1703" y="1642.814" textLength="182" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Nippon Denso - NEC 100730</text>
+    <path d="M1664 1637.086 L1674 1637.086 C1689 1637.086 1675 1637.086 1690 1637.086 L1700 1637.086" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1535 1686.109 L1545 1686.109 C1560 1686.109 1546 1637.086 1561 1637.086 L1571 1637.086" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1574" y="1662.424" textLength="25" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Тип</text>
+    <text x="1638" y="1662.424" textLength="935" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">2 катушки с двойными обмотками высокого напряжения, с клеммой на верхней части, для 1-го и 4-го цилиндров и для 2-го и 3-го цилиндров</text>
+    <path d="M1599 1656.695 L1609 1656.695 C1624 1656.695 1610 1656.695 1625 1656.695 L1635 1656.695" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1535 1686.109 L1545 1686.109 C1560 1686.109 1546 1656.695 1561 1656.695 L1571 1656.695" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1574" y="1682.033" textLength="341" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Сопротивление первичной обмотки (номинальное)</text>
+    <text x="1954" y="1682.033" textLength="45" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">0,7 Ом</text>
+    <path d="M1915 1676.305 L1925 1676.305 C1940 1676.305 1926 1676.305 1941 1676.305 L1951 1676.305" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1535 1686.109 L1545 1686.109 C1560 1686.109 1546 1676.305 1561 1676.305 L1571 1676.305" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1574" y="1701.643" textLength="340" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Сопротивление вторичной обмотки (номинальное)</text>
+    <text x="1953" y="1701.643" textLength="41" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">10 Ом</text>
+    <path d="M1914 1695.914 L1924 1695.914 C1939 1695.914 1925 1695.914 1940 1695.914 L1950 1695.914" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1535 1686.109 L1545 1686.109 C1560 1686.109 1546 1695.914 1561 1695.914 L1571 1695.914" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1574" y="1721.252" textLength="213" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Система впрыскивания топлива</text>
+    <text x="1826" y="1721.252" textLength="717" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Топливная рампа без возврата топлива, распределенный впрыск с электронным управлением блоком ECM</text>
+    <path d="M1787 1715.523 L1797 1715.523 C1812 1715.523 1798 1715.523 1813 1715.523 L1823 1715.523" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1535 1686.109 L1545 1686.109 C1560 1686.109 1546 1715.523 1561 1715.523 L1571 1715.523" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <text x="1574" y="1740.861" textLength="79" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Контроллер</text>
+    <text x="1692" y="1740.861" textLength="753" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">MEMS 3 бесконтактного зажигания, электронный, полностью программируемая система управления двигателем</text>
+    <path d="M1653 1735.133 L1663 1735.133 C1678 1735.133 1664 1735.133 1679 1735.133 L1689 1735.133" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1535 1686.109 L1545 1686.109 C1560 1686.109 1546 1735.133 1561 1735.133 L1571 1735.133" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1370 1686.109 L1380 1686.109 C1395 1686.109 1381 1686.109 1396 1686.109 L1406 1686.109" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1183 1686.305 L1193 1686.305 C1208 1686.305 1194 1686.109 1209 1686.109 L1219 1686.109" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1219" y="1747.938" width="244" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1222" y="1765.471" textLength="238" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Блок управления двигателем (ECM)</text>
+    <path d="M1183 1686.305 L1193 1686.305 C1208 1686.305 1194 1759.742 1209 1759.742 L1219 1759.742" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1219" y="1777.547" width="213" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1222" y="1795.08" textLength="207" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Регулятор холостого хода (IAC)</text>
+    <path d="M1183 1686.305 L1193 1686.305 C1208 1686.305 1194 1789.352 1209 1789.352 L1219 1789.352" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M962 933.1719 L972 933.1719 C987 933.1719 973 1686.305 988 1686.305 L998 1686.305" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M810 1339.289 L820 1339.289 C835 1339.289 821 933.1719 836 933.1719 L846 933.1719" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="846" y="1812.961" width="256" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="858" y="1839.494" textLength="232" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Навесное оборудование двигателя</text>
+    <rect x="1138" y="1807.156" width="62" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1141" y="1824.689" textLength="56" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Стартер</text>
+    <path d="M1102 1833.766 L1112 1833.766 C1127 1833.766 1113 1818.961 1128 1818.961 L1138 1818.961" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1138" y="1836.766" width="77" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1141" y="1854.299" textLength="71" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Генератор</text>
+    <path d="M1102 1833.766 L1112 1833.766 C1127 1833.766 1113 1848.57 1128 1848.57 L1138 1848.57" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M810 1339.289 L820 1339.289 C835 1339.289 821 1833.766 836 1833.766 L846 1833.766" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="846" y="1860.57" width="67" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="849" y="1878.104" textLength="61" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Подвеска</text>
+    <path d="M810 1339.289 L820 1339.289 C835 1339.289 821 1872.375 836 1872.375 L846 1872.375" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="846" y="1925.594" width="112" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="858" y="1952.127" textLength="88" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Трансмиссия</text>
+    <rect x="994" y="1866.375" width="170" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="997" y="1883.908" textLength="164" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Автоматическая коробка</text>
+    <path d="M958 1946.398 L968 1946.398 C983 1946.398 969 1878.18 984 1878.18 L994 1878.18" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="994" y="1895.984" width="155" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="997" y="1913.518" textLength="149" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Механическая коробка</text>
+    <path d="M958 1946.398 L968 1946.398 C983 1946.398 969 1907.789 984 1907.789 L994 1907.789" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="994" y="1925.594" width="66" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="997" y="1943.127" textLength="60" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Раздатка</text>
+    <path d="M958 1946.398 L968 1946.398 C983 1946.398 969 1937.398 984 1937.398 L994 1937.398" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="994" y="1955.203" width="81" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="997" y="1972.736" textLength="75" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Сцепление</text>
+    <path d="M958 1946.398 L968 1946.398 C983 1946.398 969 1967.008 984 1967.008 L994 1967.008" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="994" y="1984.813" width="125" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1006" y="2011.346" textLength="101" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Карданный вал</text>
+    <rect x="1155" y="1993.813" width="91" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1158" y="2011.346" textLength="81" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Вискомуфта</text>
+    <path d="M1119 2005.617 L1129 2005.617 C1144 2005.617 1130 2005.617 1145 2005.617 L1155 2005.617" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M958 1946.398 L968 1946.398 C983 1946.398 969 2005.617 984 2005.617 L994 2005.617" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M810 1339.289 L820 1339.289 C835 1339.289 821 1946.398 836 1946.398 L846 1946.398" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="846" y="2032.422" width="137" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="849" y="2049.955" textLength="131" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Топливная система</text>
+    <path d="M810 1339.289 L820 1339.289 C835 1339.289 821 2044.227 836 2044.227 L846 2044.227" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="846" y="2062.031" width="136" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="849" y="2079.564" textLength="130" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Выпускная система</text>
+    <path d="M810 1339.289 L820 1339.289 C835 1339.289 821 2073.836 836 2073.836 L846 2073.836" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="846" y="2091.641" width="242" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="849" y="2109.174" textLength="236" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Система охлаждения и вентиляции</text>
+    <path d="M810 1339.289 L820 1339.289 C835 1339.289 821 2103.445 836 2103.445 L846 2103.445" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="846" y="2136.055" width="173" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="858" y="2162.588" textLength="149" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Электрооборудование</text>
+    <rect x="1055" y="2121.25" width="39" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1058" y="2138.783" textLength="33" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Реле</text>
+    <path d="M1019 2156.859 L1029 2156.859 C1044 2156.859 1030 2133.055 1045 2133.055 L1055 2133.055" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1055" y="2150.859" width="293" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1067" y="2177.393" textLength="269" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Центральный модуль управления (CCU)</text>
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=10134" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=10134" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1387" y="2167.588" textLength="362" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Замена модуля CCU (нужно перепаивать микросхему)</text>
+    </a>
+    <path d="M1348 2171.664 L1358 2171.664 C1373 2171.664 1359 2161.859 1374 2161.859 L1384 2161.859" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.ru/viewtopic.php?id=884" xlink:show="new" xlink:title="https://lrfreelander.ru/viewtopic.php?id=884" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1387" y="2187.197" textLength="293" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Метод проверки CCU (возможно нерабочий)</text>
+    </a>
+    <path d="M1348 2171.664 L1358 2171.664 C1373 2171.664 1359 2181.469 1374 2181.469 L1384 2181.469" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1019 2156.859 L1029 2156.859 C1044 2156.859 1030 2171.664 1045 2171.664 L1055 2171.664" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M810 1339.289 L820 1339.289 C835 1339.289 821 2156.859 836 2156.859 L846 2156.859" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="846" y="2346.516" width="67" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="858" y="2373.049" textLength="43" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Шасси</text>
+    <rect x="949" y="2198.469" width="143" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="952" y="2216.002" textLength="137" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Рулевое управление</text>
+    <path d="M913 2367.32 L923 2367.32 C938 2367.32 924 2210.273 939 2210.273 L949 2210.273" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="949" y="2228.078" width="117" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="952" y="2245.611" textLength="111" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Приводные валы</text>
+    <path d="M913 2367.32 L923 2367.32 C938 2367.32 924 2239.883 939 2239.883 L949 2239.883" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="949" y="2257.688" width="243" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="961" y="2284.221" textLength="219" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Задний мост и главная передача</text>
+    <rect x="1228" y="2257.688" width="128" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="1240" y="2284.221" textLength="104" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Дифференциал</text>
+    <rect x="1392" y="2266.688" width="222" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1395" y="2284.221" textLength="216" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Задняя крышка дифференциала</text>
+    <path d="M1356 2278.492 L1366 2278.492 C1381 2278.492 1367 2278.492 1382 2278.492 L1392 2278.492" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M1192 2278.492 L1202 2278.492 C1217 2278.492 1203 2278.492 1218 2278.492 L1228 2278.492" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M913 2367.32 L923 2367.32 C938 2367.32 924 2278.492 939 2278.492 L949 2278.492" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="949" y="2340.711" width="153" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="961" y="2367.244" textLength="129" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Передняя подвеска</text>
+    <rect x="1138" y="2305.297" width="276" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1141" y="2322.83" textLength="270" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Стабилизатор поперечной устойчивости</text>
+    <path d="M1102 2361.516 L1112 2361.516 C1127 2361.516 1113 2317.102 1128 2317.102 L1138 2317.102" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1138" y="2334.906" width="332" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1141" y="2352.439" textLength="326" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Стойки стабилизатора поперечной устойчивости</text>
+    <path d="M1102 2361.516 L1112 2361.516 C1127 2361.516 1113 2346.711 1128 2346.711 L1138 2346.711" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1138" y="2364.516" width="468" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1141" y="2382.049" textLength="462" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Резиновые подушки штанги стабилизатора поперечной устойчивости</text>
+    <path d="M1102 2361.516 L1112 2361.516 C1127 2361.516 1113 2376.32 1128 2376.32 L1138 2376.32" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1138" y="2394.125" width="140" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1141" y="2411.658" textLength="134" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Подшипник ступицы</text>
+    <path d="M1102 2361.516 L1112 2361.516 C1127 2361.516 1113 2405.93 1128 2405.93 L1138 2405.93" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M913 2367.32 L923 2367.32 C938 2367.32 924 2361.516 939 2361.516 L949 2361.516" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="949" y="2459.148" width="136" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="961" y="2485.682" textLength="112" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Задняя подвеска</text>
+    <rect x="1121" y="2423.734" width="237" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1124" y="2441.268" textLength="231" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Сайлент-блок продольного рычага</text>
+    <path d="M1085 2479.953 L1095 2479.953 C1110 2479.953 1096 2435.539 1111 2435.539 L1121 2435.539" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1121" y="2453.344" width="281" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1124" y="2470.877" textLength="275" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Подшипник ступицы - снятие и установка</text>
+    <path d="M1085 2479.953 L1095 2479.953 C1110 2479.953 1096 2465.148 1111 2465.148 L1121 2465.148" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1121" y="2482.953" width="234" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1124" y="2500.486" textLength="228" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Амортизатор - снятие и установка</text>
+    <path d="M1085 2479.953 L1095 2479.953 C1110 2479.953 1096 2494.758 1111 2494.758 L1121 2494.758" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1121" y="2512.563" width="272" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="1124" y="2530.096" textLength="266" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Продольный рычаг - снятие и установка</text>
+    <path d="M1085 2479.953 L1095 2479.953 C1110 2479.953 1096 2524.367 1111 2524.367 L1121 2524.367" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M913 2367.32 L923 2367.32 C938 2367.32 924 2479.953 939 2479.953 L949 2479.953" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="949" y="2506.758" width="138" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="952" y="2524.291" textLength="132" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Тормозная система</text>
+    <path d="M913 2367.32 L923 2367.32 C938 2367.32 924 2518.563 939 2518.563 L949 2518.563" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M810 1339.289 L820 1339.289 C835 1339.289 821 2367.32 836 2367.32 L846 2367.32" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="846" y="2556.977" width="60" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="858" y="2583.51" textLength="36" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Кузов</text>
+    <rect x="942" y="2542.172" width="216" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="945" y="2559.705" textLength="210" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Дополнительное оборудование</text>
+    <path d="M906 2577.781 L916 2577.781 C931 2577.781 917 2553.977 932 2553.977 L942 2553.977" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="942" y="2571.781" width="92" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="954" y="2598.314" textLength="68" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">VIN Номер</text>
+    <a xlink:href="https://lrservice.info/obzory-land-rover/rasshifrovka-vin-land-rover/" xlink:show="new" xlink:title="https://lrservice.info/obzory-land-rover/rasshifrovka-vin-land-rover/" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="1073" y="2598.314" textLength="116" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Расшифровка VIN</text>
+    </a>
+    <text x="1189" y="2598.314" textLength="4" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;"> </text>
+    <path d="M1034 2592.586 L1044 2592.586 C1059 2592.586 1045 2592.586 1060 2592.586 L1070 2592.586" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M906 2577.781 L916 2577.781 C931 2577.781 917 2592.586 932 2592.586 L942 2592.586" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M810 1339.289 L820 1339.289 C835 1339.289 821 2577.781 836 2577.781 L846 2577.781" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="569" y="1248.973" width="82" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="581" y="1275.506" textLength="54" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Форумы</text>
+    <a xlink:href="https://lrfreelander.ru/" xlink:show="new" xlink:title="https://lrfreelander.ru/" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="10" y="1246.092" textLength="520" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">LRFreelander.ru (LR Freelander club (Основан в 2013 г. Более 7000 учатсников</text>
+    </a>
+    <path d="M569 1269.777 L559 1269.777 C544 1269.777 558 1240.363 543 1240.363 L533 1240.363" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://lrfreelander.spybb.ru/" xlink:show="new" xlink:title="https://lrfreelander.spybb.ru/" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="160" y="1265.701" textLength="370" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">lrfreelander.spybb.ru Land Rover эксплуатация и ремонт</text>
+    </a>
+    <path d="M569 1269.777 L559 1269.777 C544 1269.777 558 1259.973 543 1259.973 L533 1259.973" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="http://lr-club.com/index.php?showforum=83" xlink:show="new" xlink:title="http://lr-club.com/index.php?showforum=83" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="469" y="1285.311" textLength="61" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">LRclub.ru</text>
+    </a>
+    <path d="M569 1269.777 L559 1269.777 C544 1269.777 558 1279.582 543 1279.582 L533 1279.582" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://land-rover-forum.ru/" xlink:show="new" xlink:title="https://land-rover-forum.ru/" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="254" y="1304.92" textLength="276" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">land-rover-forum.ru Lan Rover Форум Клуб</text>
+    </a>
+    <path d="M569 1269.777 L559 1269.777 C544 1269.777 558 1299.191 543 1299.191 L533 1299.191" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M687 1339.289 L677 1339.289 C662 1339.289 676 1269.777 661 1269.777 L651 1269.777" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="595" y="1296.582" width="56" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="598" y="1314.115" textLength="50" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Каналы</text>
+    <path d="M687 1339.289 L677 1339.289 C662 1339.289 676 1308.387 661 1308.387 L651 1308.387" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="602" y="1326.191" width="49" height="23.6094" rx="10" ry="10" stroke-width="1" stroke-dasharray="1 1" style="fill:#F1F1F1;stroke:red;" />
+    <text x="605" y="1343.725" textLength="43" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Сайты</text>
+    <path d="M687 1339.289 L677 1339.289 C662 1339.289 676 1337.996 661 1337.996 L651 1337.996" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="578" y="1355.801" width="73" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="590" y="1382.334" textLength="49" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Группы</text>
+    <rect x="500" y="1355.801" width="42" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="512" y="1382.334" textLength="18" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">VK</text>
+    <a xlink:href="https://vk.com/club114145226" xlink:show="new" xlink:title="https://vk.com/club114145226" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="20" y="1372.529" textLength="441" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">Клуб любителей Land Rover Freelander 1 (Более 1800 участников)</text>
+    </a>
+    <path d="M500 1376.605 L490 1376.605 C475 1376.605 489 1366.801 474 1366.801 L464 1366.801" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <a xlink:href="https://vk.com/club25363067" xlink:show="new" xlink:title="https://vk.com/club25363067" target="_top" xlink:actuate="onRequest" xlink:type="simple">
+      <text x="76" y="1392.139" textLength="385" lengthAdjust="spacing" font-family="sans-serif" font-size="14" text-decoration="underline" style="fill:blue;">LAND ROVER FREELANDER CLUB (Более 700 участников)</text>
+    </a>
+    <path d="M500 1376.605 L490 1376.605 C475 1376.605 489 1386.41 474 1386.41 L464 1386.41" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M578 1376.605 L568 1376.605 C553 1376.605 567 1376.605 552 1376.605 L542 1376.605" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M687 1339.289 L677 1339.289 C662 1339.289 676 1376.605 661 1376.605 L651 1376.605" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="467" y="1403.41" width="184" height="41.6094" rx="3.5" ry="3.5" stroke-width="3" style="fill:#F1F1F1;stroke:green;" />
+    <text x="479" y="1429.943" textLength="160" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">Очень полезные ссылки</text>
+    <text x="412" y="1429.943" textLength="16" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">[[]]</text>
+    <path d="M467 1424.215 L457 1424.215 C442 1424.215 456 1424.215 441 1424.215 L431 1424.215" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <path d="M687 1339.289 L677 1339.289 C662 1339.289 676 1424.215 661 1424.215 L651 1424.215" stroke-width="1" stroke-dasharray="3 3" style="fill:none;stroke:green;" />
+    <rect x="1178.5" y="2617.391" width="153" height="17.6094" rx="3.5" ry="3.5" stroke-width="1" style="fill:white;" />
+    <text x="1178.5" y="2631.924" textLength="153" lengthAdjust="spacing" font-family="sans-serif" font-size="14" style="fill:black;">(c) Вот так вот, ребяты</text>
+  </g>
+</svg>
