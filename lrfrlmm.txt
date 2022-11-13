@@ -39,7 +39,7 @@ caption (c) Вот так вот, ребяты
 title Большая карта Фриловода [LR Freelander Mind Map]
 
 header
-v.0.2
+v.0.3
 endheader
 
 
@@ -246,19 +246,103 @@ Freelander 1
 *** Генератор
 ** Подвеска
 
+
+
+
+
+
 ** Трансмиссия
 *** Автоматическая коробка
 *** Механическая коробка
 *** Раздатка
 ****[#lightgreen] <&list> TAG000230 IRD Free 4 cyl
 ****[#lightgreen] <&list> TAG000220 IRD Free 6 cyl
-**** [[https://lrfreelander.ru/viewtopic.php?id=383 <&people>Форум: Разборка и ремонт раздатки]]
-**** [[https://lrfreelander.ru/viewtopic.php?id=7 <&people>Форум: Раздатка(IRD), карданы, вискомуфта]]
+**** Manual
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/changing_transmission_oil.html <&book>Замена трансмиссионного масла в раздаточной коробке: кроме стран Североамериканского рынка]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/changing_transmission_oil_north_american.html <&book>Замена трансмиссионного масла в раздаточной коробке: страны Североамериканского рынка]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/models_with_engine_td4.html <&book>Раздаточная коробка: модели с двигателем Td4]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/models_with_engine_k1_8.html <&book>Раздаточная коробка: модели с двигателем K1.8]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/models_with_engine_kv6.html <&book>Раздаточная коробка: модели с двигателем KV6]]
+**** Сальники
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/oil_seal_drive_shaft_transfer_case.html <&book>Сальники ведущего вала раздаточной коробки]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/oil_seal_drive_shaft.html <&book>Сальник ведущего вала раздаточной коробки]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/gland_left_drive_shaft.html <&book>Сальниклевого приводного вала: модели с двигателем Td4 и KV6]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/gland_left_drive_shaft_k1_8.html <&book>Сальниклевого приводного вала: автомобили с двигателем K1.8]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/gland_right_drive_shaft.html <&book>Сальник правого приводного вала]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/oil_seal_rear_axle_drive_shaft_td4.html <&book>Сальник вала привода заднего моста: автомобили с двигателем Td4]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/oil_seal_rear_axle_drive_shaft_k1_8.html <&book>Сальник вала привода заднего моста: автомобили с двигателем K1.8]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/oil_seal_rear_axle_drive_shaft_kv6.html <&book>Сальник вала привода заднего моста KV6, кроме стран Североамериканского рынка]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/oil_seal_rear_axle_drive_shaft_kv6_north_american.html <&book>Сальник вала привода заднего моста KV6, для стран Североамериканского рынка]]
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=1712 <&people>Форум: Сальники раздатки]]
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=383#p12379 <&person>Подборка аналогов сальников, коды и размерность]]
+*****_ [[https://freelanderos.ru/tech/sal.png <&image>Cхема иномера сальников]]
+*****_ [[https://freelanderos.ru/tech/sal2.jpg <&image>Cхема2 иномера сальников]]
+*****_ [[https://freelanderos.ru/tech/sal3.jpg <&image>Cхема3 иномера сальников]]
+**** Подшибники
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=383#p12792 <&person>KVK:Подборка кодов оригинальных подшипников]]
+*****_ [[https://freelanderos.ru/tech/pod.jpg <&image>Схема и номера подшипников]]
+**** Задняя крышка картера
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/laying_back_cover_transfer_case_td4.html <&book>Прокладка задней крышки картера раздаточной коробки: модели с двигателем Td4]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/laying_back_cover_transfer_case_kv6.html <&book>Прокладка задней крышки картера раздаточной коробки: модели с двигателем KV6]]
+*****_ [[https://www.freelanderos.ru/man/1/power/dropbox/laying_back_cover_transfer_case_k1.8.html <&book>Прокладка задней крышки картера раздаточной коробки: модели с двигателем K1.8","https]]
+**** Хвостовик
+**** Ведущий вал
+**** Приводной вал
+**** Привод заднего моста
+**** Масло
+*****[#lightgreen] <&list> TEXACO S75w90
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=7353 <&people>Какое масло залить в раздатку]]
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=8475 <&people>Течь масла]]
+**** Пробка заливного отверстия
+*****[#lightgreen] <&list> trl100060
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=875 <&people>Пробка заливного отверстия (как открутить)]]
+**** Радиатор
+*****[#lightgreen] <&list> TAR100010 (4 цилиндра)
+*****[#lightgreen] <&list> 8510256 (V6 K series)
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=383&p=8#p60329 <&person>TOY:Совет: способ демонтажа радиатора (нагрев феном)]]
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=383&p=12#p94304 <&person>Фотоотчет: способ демонтажа радиатора (нагрев жидкостью)]]
+*****_ [[http://lrfreelander.ru/viewtopic.php?id=4092&p=4#p115086 <&person>Совет: способ демонтажа радиатора (компрессор+фуфайка)]]
+**** Ремкомплект раздатки 
+*****[#lightgreen] <&list> TAG000230KIT
+***** Шайбы дифференциала
+******[#lightgreen] <&list> IRD0011
+*****_ [[https://lrfreelander.ru/viewtopic.php?id=341 <&people>Форум: Наборы для ремонта раздатки и редуктора]]
+****_ [[https://freelanderos.ru/tech/ird.jpg <&image>Cхема: раздатки]]
+*****[#lightgreen] <&list> 5: TRX100170
+*****[#lightgreen] <&list> 7: TYX100490
+*****[#lightgreen] <&list> 8: UNG100060L
+*****[#lightgreen] <&list> 38: KOYO 32008JR , Timken LM300849/811, NSK LM 300849 RG3/811RG
+******_ Размеры 40.987х67.975х17.5 
+******_ Диаметр посадочного места 41,05мм
+*****[#lightgreen] <&list> 40: KOYO LM300849\11,  Timken 32008 XM (XAA32008X), NSK HR32008 XJ
+******_ Размеры 40,000х68,000х19,000
+******_ Диаметр посадочного места 40,03 мм.
+*****_ [[https://freelanderos.ru/tech/pod.jpg <&image>Схема и номера подшипников]]
+****_ [[https://lrfreelander.ru/viewtopic.php?id=383 <&people>Форум: Разборка и ремонт раздатки]]
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=383&p=3#p27283 <&video>Видео: сборка раздатки]]
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=383&p=12#p92052 <&video>Видео: снятие раздатки]]
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=4092#p106288 <&person>Номера шайб больших и малых сателит]]
+****_ [[https://lrfreelander.ru/viewtopic.php?id=7 <&people>Форум: Раздатка(IRD), карданы, вискомуфта]]
+****_ [[http://freelander.spybb.ru/viewtopic.php?id=4261 <&info>Возможно ли сделать раздатку с понижающим рядом]] 
+*****_ Невозможно в принципе
 *** Сцепление
 *** Карданный вал
 **** Вискомуфта
 ***** [[https://lrfreelander.ru/viewtopic.php?id=7#p1365 <&people>Совет: способ проверки вискомуфты (вывешивсание и прокрутка)]]
 ***** [[https://lrfreelander.ru/viewtopic.php?id=7&p=3#p15526 <&people>Совет: способ проверки вискомуфты (троганье задним ходом с вывернутыми колесами)]]
+***[#FF4C5B] <&warning*2>
+****_ <&bug>Треск и щелчки при движении задним ходом с вывернутыми колесами
+*****_ Неисправность раздатки, возможно заклинина вискомуфта
+****_ [[https://lrfreelander.ru/viewtopic.php?id=8475 <&bug>Работает только задний привод]]
+****_ [[https://lrfreelander.ru/viewtopic.php?id=826 <&bug>Давит масло из раздатки]]
+****_ [[https://lrfreelander.ru/viewtopic.php?id=7696 <&bug>Удары при трогании с места]]
+****_ [[https://lrfreelander.ru/viewtopic.php?id=4520 <&bug>Стук и удар по кузову при резком старте]]
+
+
+
+
+
+
 ** Топливная система
 *** Топливный насос
 ****_ [[https://www.freelanderos.ru/man/1/power/petrol_k1_8/electric_fuel_pump.html <&book>Электробензонасос - снятие и установка (Фрилендер 1)]]
