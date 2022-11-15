@@ -1,4 +1,4 @@
-"# Freelander-MindMap" 
+# Freelander-MindMap" 
 https://lrfreelander.ru/viewtopic.php?id=10133
 
 Мы уже много лет собираем инф. о ремонте и эксплуатации наших верных друзей. Форумы, чаты, группы. Ориентироваться быстро не так просто, а часто нужную инф. и вовсе не найти.
@@ -20,7 +20,7 @@ https://lrfreelander.ru/viewtopic.php?id=10133
 
 Вот вариант ее прототипа.
 
-https://forumupload.ru/uploads/0000/d3/70/2/t442015.png
+![](https://forumupload.ru/uploads/0000/d3/70/2/t442015.png)
 
 
 Как пользоваться:
