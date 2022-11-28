@@ -305,7 +305,10 @@ Freelander 1
 **** Катушка зажигания
 ***** Характеристики
 ******_ Изготовитель
-*******_ Nippon Denso - NEC 100730
+*******_ Nippon Denso
+********[#lightgreen] <&list> NEC100730
+********_ для vin 5A000001 -
+*********[#lightgreen] <&list> NEC000120
 ******_ Тип
 *******_ 2 катушки с двойными обмотками высокого напряжения, с клеммой на верхней части, для 1-го и 4-го цилиндров и для 2-го и 3-го цилиндров
 ******_ Сопротивление первичной обмотки (номинальное)
@@ -501,7 +504,7 @@ Freelander 1
 *****_ [[https://freelanderos.ru/tech/sal.png <&image>Cхема иномера сальников]]
 *****_ [[https://freelanderos.ru/tech/sal2.jpg <&image>Cхема2 иномера сальников]]
 *****_ [[https://freelanderos.ru/tech/sal3.jpg <&image>Cхема3 иномера сальников]]
-**** Подшибники
+**** Подшипники
 *****_ [[http://freelander.spybb.ru/viewtopic.php?id=383#p12792 <&person>KVK:Подборка кодов оригинальных подшипников]]
 *****_ [[https://freelanderos.ru/tech/pod.jpg <&image>Схема и номера подшипников]]
 **** Задняя крышка картера
@@ -726,8 +729,8 @@ Freelander 1
 ******_ [[https://freelanderos.ru/man/1/carcass/passive_safety/front_passenger_airbag_before_2004.html <&book>Подушка безопасности переднего пассажира - до 2004 модельного года]]
 ******_ [[https://freelanderos.ru/man/1/carcass/passive_safety/front_passenger_airbag_after_2004.html <&book>Подушка безопасности переднего пассажира - после 2004-го года]]
 ******_ [[https://freelanderos.ru/man/1/carcass/passive_safety/triggering_dismantled_from_vehicle_airbags.html <&book>Срабатывание демонтированной с автомобиля подушки безопасности переднего пассажира]]
-**** Блок DCU
-*****_ [[https://freelanderos.ru/man/1/carcass/passive_safety/dcu.html <&book>Блок бортовой диагностики (DCU)]]
+**** Блок SRS(DCU)
+*****_ [[https://freelanderos.ru/man/1/carcass/passive_safety/dcu.html <&book>Блок бортовой диагностики SRS(DCU)]]
 *** Двери
 ****_ [[https://freelanderos.ru/man/1/carcass/doors/removing_front_door_assembly.html <&book>Демонтаж передней двери в сборе для обеспечения доступа к другим элементам]]
 ****_ [[https://freelanderos.ru/man/1/carcass/doors/removing_rear_door_assembly.html <&book>Демонтаж задней двери в сборе для обеспечения доступа к другим элементам]]
@@ -821,15 +824,7 @@ Freelander 1
 ***** см. двигатель <&warning>
 **** Нет проблем с пуском двигателя
 ***** Проблемы при работе двигателя
-******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p220937 <&bug>Пропадает тяга под нагрузкой]]
-*******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p220937 <&person>Проблемы с МАП сенсором]]
-****** Троит
-*******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p219699 <&people>Троит на холостых, свечи чёрные]]
-*******_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p246287 <&people>Заводится нормально, после прогрева троит]]
-********_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p246287 <&people>Неисправность крышки трамблера]]
-******* Чёрные свечи
-********_ [[https://lrfreelander.ru/viewtopic.php?id=7815#p219699 <&people>Троит на холостых, свечи чёрные]]
-
+****** см. двигатель <&warning>
 left side
 
 @endmindmap
