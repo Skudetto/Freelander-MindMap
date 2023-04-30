@@ -35,7 +35,7 @@ arrow {
 </style>
 
 
-caption (c) Вот так вот, ребяты
+caption Вот так вот, ребяты
 title Большая карта Фриловода [LR Freelander Mind Map]
 
 header
@@ -756,9 +756,11 @@ Freelander 1
 *****_ [[https://freelanderos.ru/man/1/chassis/brake/front_left_brake_line.html <&book>Передний левый тормозной шланг]]
 ***** Передние колодки
 ******_ [[https://freelanderos.ru/man/1/chassis/brake/front_brake_pads.html <&book>Передние тормозные колодки]]
+******_ [[https://freelanderos.ru/man/1/chassis/brake/guide_brake_pads_front_brake.html <&book>Направляющая тормозных колодок переднего тормозного механизма]]
 **** Задние тормоза
 *****_ [[https://freelanderos.ru/man/1/chassis/brake/rear_brake_drum.html <&book>Задний тормозной барабан - снятие и установка]]
 *****_ [[https://freelanderos.ru/man/1/chassis/brake/rear_brake_line.html <&book>Задний тормозной шланг]]
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/wheel_cylinder_rear_brake.html <&book>Колесный цилиндр заднего тормозного механизма]]
 ***** Задние колодки
 ******_ [[https://freelanderos.ru/man/1/chassis/brake/rear_brake_pads.html <&book>Задние тормозные колодки]]
 ***** Cтояночный тормоз
@@ -777,6 +779,46 @@ Freelander 1
 *****_ [[https://freelanderos.ru/man/1/chassis/brake/power_vacuum_kv6.html <&book>Усилитель разрежения - для автомобилей с двигателем KV6]]
 **** Педаль тормоза
 *****_ [[https://freelanderos.ru/man/1/chassis/brake/brake_light_switch.html <&book>Выключатель стоп-сигналов]]
+**** Бачок тормозной жидкости
+*****_ [[https://freelanderos.ru/man/1/chassis/brake/sensor_emergency_brake_fluid_level.html <&book>Датчик аварийного уровня тормозной жидкости]]
+**** Система АБС (ABS)
+*****[#yellow] <&info> Лампа ABS должна гаснуть по достижении авто 7 км/ч. после этого включается система ABS
+*****_ [[http://freelander.spybb.ru/viewtopic.php?id=21 <&people> Большая ветка форума по системе АБС (Итак, о тормозах... Точнее - об АБС)]]
+***** Датчики АБС
+******[#yellow] <&info> До 2002 (до ВИН 1A999999) Зубчатые шайбы (гребенки) и индуктивные элементы ABS с  2002 Сенсоры  электронные ABS  с эффектом Холла
+******_ [[https://lrfreelander.ru/viewtopic.php?id=21#p94 <&person>KVK: До 2002 г. Замена датчика на датчик пололжения коленвала от инжекторного ВАЗ-2110 (2108-2109)]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=21&p=3#p11631 <&person>KVK: Фотоинструкция по замене датчика]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=21&p=2#p8248 <&person>onigo: Различие датчиков и принципов их работы на авто до 2002 г. и после]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=21&p=6#p30784 <&person>TOY: Как замерить сопротивление датчиков]]
+*******_ Разъёмы находятся в крыльях под локерами, выдёргиваешь и тестером замеряешь сопротивление, если 0 то меняешь
+******_ [[https://lrfreelander.ru/viewtopic.php?id=21&p=6#p32358 <&person>При замене датчика на ВАЗовский на старых авто необходимо добавлять в цепь резистор примерно 430-500 ом.]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=21&p=8#p49531 <&person>Подробный фотоотчет по демонтажу датчика]]
+******_ [[https://freelanderos.ru/man/1/chassis/brake/speed_sensor_right_front_wheel.html <&book>Датчик скорости вращения переднего правого колеса и его электрический кабель (Датчик АБС, Датчик ABS)]]
+******_ [[https://freelanderos.ru/man/1/chassis/brake/speed_sensor_left_front_wheel.html <&book>Датчик скорости вращения переднего левого колеса и его электрический кабель]]
+******_ [[https://freelanderos.ru/man/1/chassis/brake/speed_sensor_rear_wheel.html <&book>Датчик скорости вращения заднего колеса и его электрический кабель]]
+***** Регулятор давления АБС (Блок АБС)
+******_ [[https://lrfreelander.ru/viewtopic.php?id=21&p=8#p46849 <&people>ersai: Ремонт шаттлов блока АБС с фотоотчетом]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=21&p=8#p47084 <&people>ersai: Порядок ремонта шаттлов]]
+******_ [[https://freelanderos.ru/man/1/chassis/brake/pressure_regulator_abs.html <&book>Регулятор давления АБС]]
+***** Выключатель системы помощи при движении под уклон
+******_ [[https://freelanderos.ru/man/1/chassis/brake/downhill_after_2004.html <&book>Выключатель системы помощи при движении под уклон - после 2004 года]]
+******_ [[https://freelanderos.ru/man/1/chassis/brake/downhill_before_2004.html <&book>Выключатель системы помощи при движении под уклон - до 2004 года]]
+***** Блок управления АБС
+******_ [[https://lrfreelander.ru/viewtopic.php?id=21&p=3#p12362 <&people>KVK: Описание контактов разъёма блока управления ABS (до мая 2002 года)]]
+******_ [[https://lrfreelander.ru/viewtopic.php?id=21&p=11#p109512 <&people>ersai: Описание контактов разъёма блока управления ABS]]
+*****[#FF4C5B] <&warning*2>
+****** АБС не срабатывает
+*******_ Выход из строя датчиков АБС
+****** АБС срабатывает неправильно (при штатном торможении)
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=21&p=6#p24854 <&people>Нарушение положения или повреждение гребенки (зубчатое кольцо) на шрусе]]
+****** На приборке горят три лампы ABS, TC, и HDC (Три амиго)
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=21&p=8#p47044 <&people>ersai: Методика диагностики трех амиго]]
+*******_ Неисправность датчика АБС
+*******_ [[https://lrfreelander.ru/viewtopic.php?id=21&p=2#p9198 <&people>Повреждение провода датчика АБС]]
+*******_ Неисправность блока АБС
+********_ Неисправность шаттлов
+*******[#yellow] <&info>[[https://lrfreelander.ru/viewtopic.php?id=21&p=2#p9230 <&people>Tihomirov: После устранения причины ошибки, сброс ошибки сканером не требуется, ошибка сбрасывается автоматически]]
+
 *** Колёса
 **** Диски
 **** Шины
@@ -1269,10 +1311,15 @@ Freelander 1
 **** Недостаточный уровень жидкостей
 ***** Недостаточный уровень антифриза
 **** Проблемы с пуском двигателя
-***** см. двигатель <&warning>
+***** см. Двигатель <&warning>
 **** Нет проблем с пуском двигателя
 ***** Проблемы при работе двигателя
-****** см. двигатель <&warning>
+****** см. Двигатель <&warning>
+***** Авто едет
+****** Проблемы при работе АБС
+******* см. Шасси - Тормозная система - Система АБС<&warning>
+***** Авто не едет
+
 left side
 
 @endmindmap
